@@ -32,6 +32,14 @@ module.exports = {
 			},
 			['/trademark/', 'Trademark']
 			
-		]
-	}
+		],
+		
+		// Github repo and Edit Links
+		repo: 'ramboviking/guide',
+		docsDir: 'source',
+		editLinks: true,
+		
+		smoothScroll: true
+	},
+	plugins: ['@vuepress/last-updated']
 }
