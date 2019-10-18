@@ -16,7 +16,6 @@ https://ramboviking.github.io/guide/
 Để thuận lợi trong việc truy cập, bookmark lại trang này để dễ dàng truy cập khi cần. Nhấn phím `Ctrl + D` để lưu bookmark.
 :::
 
-## Instruction
 Guideline có thể truy cập offline. Tuy nhiên, cần có kết nối Internet trong lần truy cập đầu tiên. Sau đó, dữ liệu sẽ được lưu cache và sử dụng bộ nhớ đệm để đảm bảo trải nghiệm được liền mạch.
 
 ## Policy
