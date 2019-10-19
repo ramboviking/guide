@@ -10,6 +10,8 @@
 - Nhóm 5 dược phẩm và thực phẩm chức năng
 - Nhóm 35 kinh doanh 
 
+Các hoạt động liên quan sở hữu trí tuệ thường được thực hiện thông qua một đối tác có chức năng đại diện sở hữu trí tuệ. Xem danh sách các [ĐỐI TÁC](./partner.md).
+
 ## Tra cứu nhãn hiệu
 ### Tra cứu giấy chứng nhận đã được cấp
 Trường hợp cần tra cứu thông tin của nhãn hiệu đã được cấp bằng, truy cập vào thư viện số sở hữu trí tuệ [IPLIB](http://iplib.noip.gov.vn/WebUI/WSearch.php). Nhập dữ liệu nhãn hiệu cần tra cứu:
@@ -29,3 +31,20 @@ Tương tự như trên, nhưng chúng ta sẽ xem liệu nhãn hiệu tra cứu
 #### 3. Tra cứu trùng âm
 Theo quy định hai nhãn hiệu chỉ khác nhau một âm thì khả năng bảo hộ thấp. Do đó, chúng ta sẽ tách nhãn hiệu cần tra cứu ra và tra cứu tuần tự hai âm để xem liệu có đối chứng nào trùng 2 âm hay không.
 Chúng ta sẽ tìm lần lượt "HoDo*", "*HoDo", "DoCu*", "*DoCu", "Ho*Cu"...
+
+## Sử dụng nhãn hiệu
+### Đăng ký thuốc
+Hiện nay, muốn sử dụng ký hiệu R trên bao bì sản phẩm thì bắt buộc phải nộp kèm Giấy chứng nhận đăng ký nhãn hiệu. Nếu nhãn hiệu mới chỉ nộp đơn (và được cấp quyết định chấp nhận đơn hợp lệ) thì cũng không được thể hiện ký hiệu R trên bao bì sản phẩm. Tuy nhiên, sau khi đăng ký xong và tung sản phẩm ra thị trường thì doanh nghiệp có quyền bổ sung thêm ký hiệu R mà không cần thông báo với Cục Quản lý Dược.
+
+::: warning
+Sản phẩm trên giấy chứng nhận phải phù hợp với sản phẩm thực tế. Ví dụ nếu sử dụng nhãn cho thực phẩm chức năng (hoặc mỹ phẩm) thì trên Giấy chứng nhận phải thể hiện sản phẩm là thực phẩm chức năng (hoặc mỹ phẩm.
+:::
+
+Một số nhãn hiệu đăng ký từ trước năm 2010 sẽ chỉ có nhóm 5 Dược phẩm mà không có Thực phẩm chức năng. Do trước đây, phân loại Nixon chưa có thực phẩm chức năng và xem nó như là dược phẩm.
+
+### Bảo hộ nhãn hiệu
+Đối với các trường hợp xâm phạm quyền, hoặc cạnh tranh không lành mạnh cần liên hệ với công ty luật để họ tư vấn từng trường hợp cụ thể.
+
+Xem thêm:
+* [Gia hạn](./renewal.md)
+* [Quyền tác giả](./copyright.md)
