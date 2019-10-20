@@ -25,6 +25,18 @@ Có thể chuyển *Giấy ra vào cổng* cho Office Manager và trình ký m�
 Nếu sau ngày 1 hàng tháng mà chưa bổ sung Giấy tờ đầy đủ theo quy định, Office Manager có quyền chấm công theo quy định của công ty mà không được quyền khiếu nại vì bất kỳ lý do gì.
 :::
 
+## Overtime-Extratime
+Căn cứ quy định của công ty, khi làm việc ngoài khung giờ hành chính thì sẽ được chấm công làm thêm giờ (chỉ áp dụng cho nhân viên - không áp dụng cho cấp quản lý). Tuy nhiên, điều kiện để được chấm công là phải có `Giấy đăng ký làm thêm` đã được phê duyệt.
+* Trường hợp làm việc tại văn phòng, cần có xác nhận của một đơn vị độc lập.
+* Trường hợp làm việc bên ngoài văn phòng, không cần xác nhận nhưng phải ghi rõ địa điểm làm việc trong 'Giấy đăng ký làm thêm`.
+
+::: warning
+Làm việc thứ 7 là một trường hợp đặc biệt:
+* Phục vụ sự kiện (hội nghị/ hội thảo/ triễn lãm) hiển nhiên được chấm công.
+* Chuẩn bị hồ sơ cho các sự kiện đặc biệt (có tính chất phát sinh) như thanh tra, kiểm tra, giám sát, chứng nhận... thì được chấm công.
+* Các công việc đơn giản, nằm trong bảng mô tả công việc, cần có kế hoạch từ trước thì không được chấm công (ví dụ: phân tích, báo cáo, xây dựng kế hoạch, gặp gỡ đối tác, vận chuyển hàng hóa...).
+:::
+
 ## Stationery
 Nếu phát sinh nhu cầu đặt mua văn phòng phẩm thì gửi yêu cầu đến Office Manager để thực hiện dự trù và đặt mua vào ngày 25 mỗi tháng theo quy định. Đính kèm hashtag `#oder` cho mỗi yêu cầu, nếu cần gấp trong tuần thì thêm hashtag `#urgent`, trường hợp cần gấp trong ngày thì sử dụng hashtag `#superUrgent`.
 
@@ -33,3 +45,8 @@ Ghi rõ yêu cầu kỹ thuật đối với các loại văn phòng phẩm đ�
 :::
 
 [Tham khảo phân loại văn phòng phẩm](../budget/stationery.md)
+
+## Kaizen 5S
+Kaizen 5S là một mô hình quản lý và cải tiến liên tục trong doanh nghiệp. Mục đích tạo ra một môi trường sạch sẽ, khoa học, gọn gàng và tiện lợi cho doanh nghiệp. Bước đầu để triển khai Kaizen 5S, các thành viên cần thực hiện nhưng điều cơ bản nhất như sau:
+* Phân loại văn bản, sắp xếp đúng trình tự, ghi nhãn đầy đủ, liệt kê mục lục.
+* Lưu trữ dài hạn (cất lên kho) đối với các hồ sơ ít khi sử dụng.
