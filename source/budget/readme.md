@@ -115,3 +115,5 @@ Mua gimmick: tùy vào **mục đích chủ yếu** của gimmick mà định kh
 **Xác định tài khoản**  
 Mua thuốc mẫu nếu có gửi mẫu cho phòng NCTP thì không hoạch toán vào tài khoản "Chi phí bán hàng" mà định khoản "Chi phí nghiên cứu"
 Tiếp khách, đối ngoại không có chứng từ sẽ là chi phí không hợp lệ và bị loại khỏi tài khoản 641.
+
+Xem tiếp: [chi phí hợp lý, hợp lệ](./eligible.md)
