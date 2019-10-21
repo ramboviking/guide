@@ -8,7 +8,6 @@ Theo quy định của Myanmar thì thời hạn hiệu lực của văn bằng 
 - Địa chỉ: 467 Hồng Bàng, P. 14, Q. 5
 - Mã cộng: QM33+FQ Phường 14, Quận 5, Hồ Chí Minh, Việt Nam
 
-
 Tài liệu cần chuẩn bị khi đi công chứng:
 1. Giấy đăng ký kinh doanh (bản chính)
 2. CMND của Tổng Giám Đốc (bản chính)

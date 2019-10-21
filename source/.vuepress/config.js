@@ -1,6 +1,6 @@
 module.exports = {
 	title: 'Viking',
-	description: 'Hello World project',
+	description: 'Marketing Dept Guideline',
 	base: '/guide/',
 	dest: './docs',
 	themeConfig: {
@@ -30,7 +30,15 @@ module.exports = {
 					['/research/declare.md', 'Giá kê khai']
 				]
 			},
-			['/trademark/', 'Trademark']
+			['/trademark/', 'Trademark'],
+			{
+				title: 'Other',
+				path: '/administration/',
+				children: [
+					['/text-decoration.md', 'Cách viết'],
+					['/administration/', 'Hành chánh']
+				]
+			}
 			
 		],
 		
