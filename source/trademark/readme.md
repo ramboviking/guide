@@ -46,5 +46,5 @@ Một số nhãn hiệu đăng ký từ trước năm 2010 sẽ chỉ có nhóm 
 Đối với các trường hợp xâm phạm quyền, hoặc cạnh tranh không lành mạnh cần liên hệ với công ty luật để họ tư vấn từng trường hợp cụ thể.
 
 Xem thêm:
-* [Gia hạn](./renewal.md)
+* [Gia hạn nhãn hiệu hàng hóa](./renewal.md)
 * [Quyền tác giả](./copyright.md)
