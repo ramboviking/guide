@@ -9,9 +9,9 @@ Chi phí marketing được định khoản trong 2 tài khoản sau:
 * `Tài khoản 642` - Chi phí quản lý doanh nghiệp - các chi phí của công ty không trực tiếp đến hoạt động kinh doanh.
 
 ### Nguyên tắc
-Việc định khoản sẽ dựa vào bản chất của khoản chi mà không phụ thuộc vào đơn vị đề nghị (ví dụ phòng NCPT đề nghị chi nhưng bản chất là chi phí bán hàng thì vẫn ghi vào `tài khoản 641`).
-
-Thời điểm ghi khoản chi căn cứ vào thời điểm phát sinh chi phí (hoặc chứng từ) không căn cứu vào thời điểm chi (ví dụ quảng cáo tháng 5 nhưng chi tiền tháng 6 thì vẫn tính khoản chi cho tháng 5).
+- Việc định khoản sẽ dựa vào bản chất của khoản chi mà không phụ thuộc vào đơn vị đề nghị (ví dụ phòng NCPT đề nghị chi nhưng bản chất là chi phí bán hàng thì vẫn ghi vào `tài khoản 641`).
+- Thời điểm ghi khoản chi căn cứ vào thời điểm phát sinh chi phí (hoặc chứng từ) không căn cứu vào thời điểm chi (ví dụ quảng cáo tháng 5 nhưng chi tiền tháng 6 thì vẫn tính khoản chi cho tháng 5).
+- Số liệu trong các báo cáo phải là số trước thuế.
 
 ## Phân nhóm
 ### Danh sách nhóm
@@ -34,70 +34,70 @@ Thời điểm ghi khoản chi căn cứ vào thời điểm phát sinh chi phí
 * Chi tiết nhóm
 * P16 Văn phòng phẩm
 * P21 In ấn  
-In ấn trang trí xe  
-In tờ rơi, brochure, backdrop, bandrone, phướn  
-In túi giấy, túi nilon  
-In lịch  
-In phiếu mua hàng  
-In sách, báo, tài liệu, dịch thuật, công chứng  
-Xuất bản cẩm nang  
+	- In ấn trang trí xe  
+	- In tờ rơi, brochure, backdrop, bandrone, phướn  
+	- In túi giấy, túi nilon  
+	- In lịch  
+	- In phiếu mua hàng  
+	- In sách, báo, tài liệu, dịch thuật, công chứng  
+	- Xuất bản cẩm nang  
 * P27 Quảng cáo  
-Quảng cáo in ấn (sách, báo, tạp chí)  
-Quảng cáo TVC  
-Quảng cáo Radio  
-Quảng cáo digital  
-Quảng cáo OOH (billboard, building, transport, frame...)
-Merchaindaising  
-Activation  
-Sản xuất tư liệu quảng cáo (làm phim, biên tập, thiết kế...)  
+	- Quảng cáo in ấn (sách, báo, tạp chí)  
+	- Quảng cáo TVC  
+	- Quảng cáo Radio  
+	- Quảng cáo digital  
+	- Quảng cáo OOH (billboard, building, transport, frame...)
+	- Merchaindaising  
+	- Activation  
+	- Sản xuất tư liệu quảng cáo (làm phim, biên tập, thiết kế...)  
 (các bài viết PR cho thương hiệu và nhãn hiệu sẽ được xem như là quảng cáo)  
 * P29 Hội chợ, triễn lãm  
-Hội chợ (HVNCLC...)  
-Triễn lãm (VietnamExpo, Medipharm, FoodExpo...)  
-Hội nghị khách hàng  
-Hội thảo do OPC tự tổ chức  
+	- Hội chợ (HVNCLC...)  
+	- Triễn lãm (VietnamExpo, Medipharm, FoodExpo...)  
+	- Hội nghị khách hàng  
+	- Hội thảo do OPC tự tổ chức  
 (bao gồm phụ cấp nhân viên, in ấn, vận chuyên dành riêng cho sự kiện đó)  
 * P31 Nghiên cứu, mở rộng thị trường  
-Thuê ngoài dịch vụ nghiên cứu thị trường  
-Mua số liệu thị trường  
-Phụ cấp nhân viên đi ngiên cứu, khảo sát thị trường  
-Đoàn công tác của lãnh đạo đi nghiên cứu thị trường mới  
+	- Thuê ngoài dịch vụ nghiên cứu thị trường  
+	- Mua số liệu thị trường  
+	- Phụ cấp nhân viên đi ngiên cứu, khảo sát thị trường  
+	- Đoàn công tác của lãnh đạo đi nghiên cứu thị trường mới  
 * P32 Thương hiệu  
-Phí xét duyệt thương hiệu, giải thưởng  
-Phí tài trợ thương hiệu, giải thưởng  
-Chi phí cho các hoạt động branding khác  
-Phụ cấp viết bài cho website  
+	- Phí xét duyệt thương hiệu, giải thưởng  
+	- Phí tài trợ thương hiệu, giải thưởng  
+	- Chi phí cho các hoạt động branding khác  
+	- Phụ cấp viết bài cho website  
 * P33 Tiếp khách  
-Ăn uống có hóa đơn
+	- Ăn uống có hóa đơn
 * P40 Nhượng quyền  
-Nhượng quyền khai thác thương hiệu
+	- Nhượng quyền khai thác thương hiệu
 * P42 Công tác phí  
-Di chuyển (taxi, máy bay, bus) đi công tác  
-Ngủ nghỉ đi công tác  
-Ăn uống đi công tác  
+	- Di chuyển (taxi, máy bay, bus) đi công tác  
+	- Ngủ nghỉ đi công tác  
+	- Ăn uống đi công tác  
 * P45 Phụ cấp nhân viên
 * P48 Đăng ký, thẩm định, kiểm nghiệm thuốc  
-Phí kê khai giá thuốc  
-Phí công bố quảng cáo  
+	- Phí kê khai giá thuốc  
+	- Phí công bố quảng cáo  
 * P58 Tài trợ khác  
-Tài trợ hội nghị khoa học kỹ thuật, hội thảo khoa học  
-Tài trợ thể thao  
-Tài trợ văn nghệ  
-Tài trợ giáo dục  
-Tài trợ y tế  
-P68 Phí, lệ phí hiệp hội
-Phí hội viên BSA  
-Phí 
+	- Tài trợ hội nghị khoa học kỹ thuật, hội thảo khoa học  
+	- Tài trợ thể thao  
+	- Tài trợ văn nghệ  
+	- Tài trợ giáo dục  
+	- Tài trợ y tế  
+* P68 Phí, lệ phí hiệp hội
+	- Phí hội viên BSA  
+	- Phí 
 * P84 Cho, biếu tặng  
-Tặng hàng hóa cho khách hàng không thu tiền
+	- Tặng hàng hóa cho khách hàng không thu tiền
 * P86 Chi phí đối ngoại  
-Chi phí đối ngoại có bảng kê
+	- Chi phí đối ngoại có bảng kê
 * P89 Sở hữu công nghiệp  
-Tra cứu  
-Đăng ký nhãn hiệu hàng hóa  
-Gia hạn nhãn hiệu hàng hóa  
-Đăng ký bản quyền tác giả  
-Tranh chấp sở hữu trí tuệ  
+	- Tra cứu  
+	- Đăng ký nhãn hiệu hàng hóa  
+	- Gia hạn nhãn hiệu hàng hóa  
+	- Đăng ký bản quyền tác giả  
+	- Tranh chấp sở hữu trí tuệ  
 
 ### Hướng dẫn phân nhóm
 Trong 1 đề nghị thanh toán bao gồm nhiều khoản chi (có thể khác nhóm) thì có thể ghi theo nhóm của khoản chi quan trọng nhất, đúng với bản chất của khoản chi mà không cần tách nhóm để dễ quản lý hơn:

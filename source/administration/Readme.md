@@ -5,7 +5,7 @@ Trường hợp công tác ngoài hoặc nghỉ phép phải thông báo với O
 ::: tip TIP
 Khuyến nghị sử dụng phương tiện kỹ thuật số để lưu lại thông tin. Nếu được nên đính kèm hashtag `#lunchOutSide` để tiện tra cứu khi cần thiết.
 
-Khuyến khích sử dụng Zalo <Badge text="Recommend" />
+Khuyến khích sử dụng Zalo <Badge text="Recommend"/>
 :::
 
 ::: danger
@@ -28,7 +28,7 @@ Nếu sau ngày 1 hàng tháng mà chưa bổ sung Giấy tờ đầy đủ theo
 ## Overtime-Extratime
 Căn cứ quy định của công ty, khi làm việc ngoài khung giờ hành chính thì sẽ được chấm công làm thêm giờ (chỉ áp dụng cho nhân viên - không áp dụng cho cấp quản lý). Tuy nhiên, điều kiện để được chấm công là phải có `Giấy đăng ký làm thêm` đã được phê duyệt.
 * Trường hợp làm việc tại văn phòng, cần có xác nhận của một đơn vị độc lập.
-* Trường hợp làm việc bên ngoài văn phòng, không cần xác nhận nhưng phải ghi rõ địa điểm làm việc trong 'Giấy đăng ký làm thêm`.
+* Trường hợp làm việc bên ngoài văn phòng, không cần xác nhận nhưng phải ghi rõ địa điểm làm việc trong `Giấy đăng ký làm thêm`.
 
 ::: warning
 Làm việc thứ 7 là một trường hợp đặc biệt:
@@ -44,7 +44,9 @@ Nếu phát sinh nhu cầu đặt mua văn phòng phẩm thì gửi yêu cầu �
 Ghi rõ yêu cầu kỹ thuật đối với các loại văn phòng phẩm đặc thù, hoặc dễ nhầm lẫn. Tốt nhất nên gửi kèm mẫu tham khảo để bộ phận mua hàng có căn cứ đối chiếu.
 :::
 
-[Tham khảo phân loại văn phòng phẩm](../budget/stationery.md)
+**Tham khảo**
+* [Phân loại văn phòng phẩm](../budget/stationery.md)
+* [Dữ liệu dự trù văn phòng phẩm](https://docs.google.com/spreadsheets/d/11W4YGzwMg0dQINM5r3yh_7cOC8PvWW9MI6xSM670nFY/edit?usp=sharing)
 
 ## Kaizen 5S
 Kaizen 5S là một mô hình quản lý và cải tiến liên tục trong doanh nghiệp. Mục đích tạo ra một môi trường sạch sẽ, khoa học, gọn gàng và tiện lợi cho doanh nghiệp. Bước đầu để triển khai Kaizen 5S, các thành viên cần thực hiện nhưng điều cơ bản nhất như sau:
