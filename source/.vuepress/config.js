@@ -8,16 +8,28 @@ module.exports = {
 			{ text: 'Guide', link: '/' },
 			{ text: 'Resource',
 			  items: [
-				  { text: 'SOP', link: 'https://docs.google.com/spreadsheets/d/1t4DR1owReaFl8sYtmrnh8jtu6RhjFXucAmK9_CoQ_r8/'},
-				  { text: 'Rule', link: 'https://opcpharma.com' },
-				  { text: 'Certificate', link: '/'}
+				  { text: 'Quy định', items: [
+					  { text: 'SOP', link: 'https://docs.google.com/spreadsheets/d/1t4DR1owReaFl8sYtmrnh8jtu6RhjFXucAmK9_CoQ_r8/'},
+				  	  { text: 'Rule', link: 'https://opcpharma.com' }
+				  ] },
+				  { text: 'Danh sách', items: [
+					  { text: 'Certificate', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=0'},
+					  { text: 'Award', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=1106985385'},
+					  { text: 'Verify', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=1746001221'},
+				  ] }
 			  ]
 			},
 			{ text: 'About', link: '/about.md'}
 			
 		],
 		sidebar: [
-			['/budget/', 'Budget'],
+			{
+				title: 'Budget',
+				path: '/budget/',
+				children: [
+					['/purchase/gimmick.md', 'Gimmick']
+				]
+			},
 			['/event/', 'Event'],
 			{
 				title: 'Research',
