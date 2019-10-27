@@ -2,7 +2,7 @@
 1. Để thống kê giá kê khai của một hoạt chất nào đó, truy cập vào trang [công bố giá thuốc](https://dichvucong.dav.gov.vn/congbogiathuoc/index) của Cục Quản lý Dược. Nhập tên hoạt chất vào ô tìm kiếm và bắt đầu tìm dữ liệu của thuốc đúng hoạt chất cần tìm.
 
 ::: tip
-Chỉ quan tâm đến các thuốc mới vừa kê khai trong vòng 3 năm gần nhất (theo quy định của Nghị định 54).
+Chỉ quan tâm đến các thuốc mới vừa kê khai trong vòng 3 năm gần nhất (theo quy định của Nghị đị nh 54).
 :::
 
 ::: warning

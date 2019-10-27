@@ -47,7 +47,8 @@ module.exports = {
 				title: 'Other',
 				path: '/administration/',
 				children: [
-					['/text-decoration.md', 'Cách viết'],
+					['/text-decoration.md', 'Text decoration'],
+					['/name-convention.md', 'Name convention'],
 					['/administration/', 'Hành chánh']
 				]
 			}
