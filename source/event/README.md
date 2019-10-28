@@ -33,37 +33,50 @@ Nếu có bán hàng thì CN phải chuẩn bị: tiền lẻ, túi nilon, hàng
 Trưng bày hàng hóa
 
 ## Báo cáo
-Mẫu báo cáo đính kèm
+Mẫu báo cáo đính kèm.
+[Mẫu báo cáo của Chi nhánh](https://1drv.ms/w/s!AiA8LkFkurxNiEXxUvSgqqmo6Wfd?e=yLbe8y)
+[Mẫu báo cáo của phòng QTM](https://1drv.ms/w/s!AiA8LkFkurxNiEQxwNRamlbEbM2Z?e=1unsmv)
+
+* Nội dung báo cáo phải đầy đủ các mục có đánh số. Nếu mục nào không có nội dung thì bỏ trống nhưng vẫn giữ lại đề mục.
+* Các ý (gạch đầu dòng) nào không phù hợp với hội nghị/hội thảo đang báo cáo thì bỏ đi để văn bản trình bày đẹp hơn.
+* Có thể bổ sung thêm các ý (gạch đầu dòng) chưa có trong mẫu báo cáo với mục đích cung cấp nhiều thông tin hơn (hoặc làm rõ nội dung hơn).
+
+::: warning
+Ngay sau khi ký duyệt báo cáo, cần kiểm tra và hoàn thiện tất cả các thủ tục liên quan của hội nghị/hội thảo, bao gồm:
+1. Xuất kho quà khuyến mãi.
+2. Xuất hóa đơn quà khuyến mãi.
+3. Xuất hóa đơn bán hàng.
+:::
 
 ## Chi phí
-Chi phí: bao gồm tất cả các chi phí cấu thành của sự kiện. Bao gồm: chi phí khuyến mãi (khuyến mãi giảm giá và quà khuyến mãi), chi phí phụ cấp, chi phí thuê ngoài, chi phí thuê gian hàng, chi phí in ấn, chi phí di chuyển và các chi phí khác.  
+* Chi phí: bao gồm tất cả các chi phí cấu thành của sự kiện. Bao gồm: chi phí khuyến mãi (khuyến mãi giảm giá và quà khuyến mãi), chi phí phụ cấp, chi phí thuê ngoài, chi phí thuê gian hàng, chi phí in ấn, chi phí di chuyển và các chi phí khác.  
 Nên liệt kê các chi phí cần thành toán vào 1 bảng kê chi tiết để phục vụ mục đích thanh toán chi phí. Trong đó, bao gồm các sheet `Bảng kê chứng từ`, `Bảng kê phụ cấp`, `Bảng kê doanh thu`, `Bảng kê bán hàng`.
 
 [Download mẫu bảng kê](https://www.dropbox.com/s/lw1fas7o39u89wc/B%E1%BA%A3ng%20k%C3%AA.xlsx?dl=0)
 
-Các chi phí liên quan đến sản phẩm OPC sản xuất (sản phẩm tặng, sản phẩm khuyến mãi) lấy giá nguyên.  
-Các chi phí liên quan đến quà gimmick, lấy giá mua vào.
-Tất cả khoản chi nên có hóa đơn đỏ (nếu được).
+* Các chi phí liên quan đến sản phẩm OPC sản xuất (sản phẩm tặng, sản phẩm khuyến mãi) lấy giá nguyên.  
+* Các chi phí liên quan đến quà gimmick, lấy giá mua vào.
+* Tất cả khoản chi nên có hóa đơn đỏ (nếu được).
 
 ## Chấm công
 
 ### Chấm phụ cấp
-Nhẫn viên phòng QTM (và ĐPBH) mỗi 8 giờ làm việc phục vụ hội nghị/hội thảo sẽ được chấm phụ cấp 300.000, các phòng ban khác được chấm 250.000đ. Trường hợp không làm đủ 8 giờ thì sẽ chấm theo tỷ lệ tương ứng. Nếu thời gian làm việc ngoài giờ quy định của công ty thì bên cạnh phụ cấp sẽ được chấm công làm ngoài giờ (xem phần [chấm công bên dưới](#cham-cong)).
+* Nhân viên phòng QTM (và ĐPBH) mỗi 8 giờ làm việc phục vụ hội nghị/hội thảo sẽ được chấm phụ cấp XXX đồng/8 giờ, các phòng ban khác được chấm yyy đồng/8 giờ. Trường hợp không làm đủ 8 giờ thì sẽ chấm theo tỷ lệ tương ứng. Nếu thời gian làm việc ngoài giờ quy định của công ty thì bên cạnh phụ cấp sẽ được chấm công làm ngoài giờ (xem phần [chấm công bên dưới](#cham-cong)).
 
 [Tham khảo quy chế chi tiêu nội bộ](https://1drv.ms/w/s!AiA8LkFkurxNiBeZpJUT0mv-m6iB?e=sVEaRG)
 
-Phụ cấp đã bao gồm tiền ăn nên không chấm cơm.  
-Đối với một số công việc nặng nhọc làm trong giờ làm việc thì vẫn có thể chấm phụ cấp nhưng cần có sự phê duyệt của quản lý.
+* Phụ cấp đã bao gồm tiền ăn nên không chấm cơm.  
+* Đối với một số công việc nặng nhọc làm trong giờ làm việc thì vẫn có thể chấm phụ cấp nhưng cần có sự phê duyệt của quản lý.
 ::: warning  
-Trưởng phó chỉ chấm khi làm việc thực sự (trực giống như nhân viên, còn chỉ đạo thì không chấm).  
+Trưởng phó chỉ chấm phụ cấp khi làm việc thực sự (trực giống như nhân viên, còn chỉ đạo thì không chấm).  
 :::
 
 ### Chấm công
-TDV lãnh lương khoán nên làm bao nhiêu chấm bấy nhiêu. Chi nhánh (hoặc các phòng ban khác) tự chấm theo mẫu, phòng QTM sẽ xác nhận thời gian.  
-Những người tính lương theo thời gian thì mặc định trong giờ làm việc đã tính rồi nên chỉ tính thời gian làm ngoài giờ (nếu có).  
-Nếu làm ở bên ngoài thì không cần bảo vệ xác nhận thời gian.  
-Chấm thực tế theo thời gian làm việc, không làm tròn, không bù trừ, không ghi khống.  
-Nếu trong kế hoạch chưa ghi rõ nhiệm vụ thì phải ghi chú đầy đủ các việc đã làm trong sự kiện. 
+* Các cá nhân lãnh lương khoán (TDV, Supervisor) làm bao nhiêu chấm bấy nhiêu. Chi nhánh (hoặc các phòng ban khác) tự chấm theo mẫu, phòng QTM sẽ xác nhận thời gian rồi mới chuyển cho phòng HCQT.  
+* Những người tính lương theo thời gian (phòng QTM, ĐPBH, bộ phận văn phòng của Chi nhánh) thì mặc định trong giờ làm việc đã tính rồi nên chỉ chấm thời gian làm ngoài giờ (nếu có).  
+* Nếu làm ở bên ngoài thì không cần bảo vệ xác nhận thời gian.  
+* Chấm thực tế theo thời gian làm việc, không làm tròn, không bù trừ, không ghi khống.  
+* Nếu trong kế hoạch chưa ghi rõ nhiệm vụ thì phải ghi chú *công việc chính* của từng cá nhân trong sự kiện đó.
 
 ::: warning
 Trưởng phó k chấm công làm ngoài giờ.
