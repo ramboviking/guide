@@ -11,7 +11,10 @@ Quà gimmick hoàn toàn độc lập so với quà khuyến mãi. Không sử d
 :::
 
 ## Procedure
-Hàng quý, phòng QTM sẽ phân bổ gimmick cho các chi nhánh. Hàng tháng, giám đốc chi nhánh sẽ phân bổ cho các TDV. Hàng tuần, TDV phải ghi nhận vào hệ thống và báo cáo GĐ CN về tình trạng thực hiện tặng gimmick.
+* Hàng quý, phòng QTM sẽ phân bổ gimmick cho các chi nhánh. Hàng tháng, giám đốc chi nhánh sẽ phân bổ cho các TDV. Hàng tuần, TDV phải ghi nhận vào hệ thống và báo cáo GĐ CN về tình trạng thực hiện tặng gimmick.
+* Người nhận quà gimmick không cần phải ký nhận.
+* Hóa đơn quà gimmick được cộng dồn và xuất cuối kỳ.
+
 
 ::: danger
 Nếu TDV chưa sử dụng hết gimmick được phát trong tháng đó thì phải gửi trả lại kho chi nhánh. Việc giữ lại vì bất cứ lý do gì đều là vi phạm quy định của công ty.
@@ -22,8 +25,12 @@ Danh sách quà gimmick được chấp nhận. Trường hợp muốn sử dụ
 | Tên 		| Miêu tả 	| Ghi chú 	|
 | ----- 	| --- 		| ----		|
 | Bút		| Bút thông thường | Giá trị không quá 8.000 đ/cây			|
+| Sổ | | |
+| Tập | | |
 | Thước		|			|			|
 | Chặn giấy	|			|			|
-|Đồ bấm và kẹp giấy |	|			|
-|Chuột vi tính |		|			|
-|Sticker	|			|			|
+| Đồ bấm và kẹp giấy |	|			|
+| Chuột vi tính |		|			|
+| Sticker	|			|			|
+| Power Adapter | | |
+| Cáp | | |
