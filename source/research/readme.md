@@ -11,18 +11,21 @@ Nghiên cứu thị trường bao gồm các hoạt động sau đây:
 
 Danh sách đối thủ cần theo dõi.
 Sử dụng Google Alert để nhận thông báo khi có bài viết mới trên web về các đối thủ này.
+
 Nhóm công ty
 * DHG
 * Traphaco
 * Imexpharm
+* Imepharco
 * Domesco
 * Pharmedic
 * Sanofi
+
 Nhóm brand
 * Op.can: Cebraton, Tanakan
 * Kim tiền thảo: Bài thạch, Sirnakarang
 * Cao ích mẫu: Bảo xuân, Kim nguyệt kiều
-* HoAstex: Prospan, Ích nhi, Ong vàng, Codatux,
+* HoAstex: Prospan, Ích nhi, Ong vàng, Codatux, Atusssin, Bảo khí khang, Bezut
 * Opsure: Apettito
 * Mimosa: rotunda, rotundin
-* Inberco: bifina
+* Inberco: bifina, Tràng phục linh
