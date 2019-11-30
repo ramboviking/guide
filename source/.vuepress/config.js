@@ -30,7 +30,15 @@ module.exports = {
 					['/purchase/gimmick.md', 'Gimmick']
 				]
 			},
-			['/event/', 'Event'],
+			{
+				title: 'Event',
+				path: '/event/',
+				children: [
+					['/event/workshop.md', 'Hội thảo'],
+					['/event/plan.md', 'Kế hoạch'],
+					['/event/rule.md', 'Quy định']
+				]
+			},
 			{
 				title: 'Research',
 				path: '/research/',
