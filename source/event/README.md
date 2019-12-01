@@ -59,6 +59,7 @@ Nên liệt kê các chi phí cần thành toán vào 1 bảng kê chi tiết đ
 
 [Download mẫu bảng kê](https://www.dropbox.com/s/lw1fas7o39u89wc/B%E1%BA%A3ng%20k%C3%AA.xlsx?dl=0)
 
+* Vì công ty đã tính chi phí ăn uống bao gồm trong phụ cấp. Do đó, không liệt kê chi phí ăn uống vào phần chi phí event. Thay vào đó, có thể tìm nguồn ngân sách khác để thanh toán (quỹ phòng chẳng hạn).
 * Các chi phí liên quan đến sản phẩm OPC sản xuất (sản phẩm tặng, sản phẩm khuyến mãi) lấy giá nguyên.  
 * Các chi phí liên quan đến quà gimmick, lấy giá mua vào.
 * Tất cả khoản chi nên có hóa đơn đỏ (nếu được).
