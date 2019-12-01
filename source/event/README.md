@@ -48,6 +48,11 @@ Ngay sau khi ký duyệt báo cáo, cần kiểm tra và hoàn thiện tất c�
 3. Xuất hóa đơn bán hàng.
 :::
 
+::: tip
+- Chỉ báo cáo các sự kiện OPC tham gia trưng bày, hoặc có bài giới thiệu sản phẩm.
+- Trường hợp chỉ tài trợ tiền (hoặc hiện vật) thì được miễn báo cáo.
+:::
+
 ## Chi phí
 * Chi phí: bao gồm tất cả các chi phí cấu thành của sự kiện. Bao gồm: chi phí khuyến mãi (khuyến mãi giảm giá và quà khuyến mãi), chi phí phụ cấp, chi phí thuê ngoài, chi phí thuê gian hàng, chi phí in ấn, chi phí di chuyển và các chi phí khác.  
 Nên liệt kê các chi phí cần thành toán vào 1 bảng kê chi tiết để phục vụ mục đích thanh toán chi phí. Trong đó, bao gồm các sheet `Bảng kê chứng từ`, `Bảng kê phụ cấp`, `Bảng kê doanh thu`, `Bảng kê bán hàng`.
