@@ -32,5 +32,6 @@ Hồ sơ đăng ký thuốc yêu cầu nộp 02 bản sao Giấy chứng nhận 
 Xem thêm:
 * [Tra cứu & đánh giá khả năng bảo hộ](./lookups.md)
 * [Gia hạn nhãn hiệu hàng hóa](./renewal.md)
+* [Cấp lại](./reissue.md)
 * [Quyền tác giả](./copyright.md)
 * [Hệ thống Madrid](./madrid.md)
