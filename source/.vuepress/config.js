@@ -50,6 +50,14 @@ module.exports = {
 					['/research/declare.md', 'Giá kê khai']
 				]
 			},
+			{
+				title: 'Quảng cáo',
+				path: '/ads/',
+				children: [
+					['/ads/tvc.md', 'TVC']
+				]
+
+			},
 			['/trademark/', 'Trademark'],
 			{
 				title: 'Other',
