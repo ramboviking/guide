@@ -17,7 +17,7 @@ module.exports = {
 					  { text: 'Award', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=1106985385'},
 					  { text: 'Verify', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=1746001221'},
 				  ] }
-			  ]
+			  ],
 			},
 			{ text: 'About', link: '/about.md'}
 			
@@ -35,6 +35,7 @@ module.exports = {
 				path: '/event/',
 				children: [
 					['/event/workshop.md', 'Hội thảo'],
+					['/event/fair.md', 'Hội chợ'],
 					['/event/plan.md', 'Kế hoạch'],
 					['/event/rule.md', 'Quy định']
 				]
