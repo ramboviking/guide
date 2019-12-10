@@ -36,6 +36,7 @@ module.exports = {
 				children: [
 					['/event/workshop.md', 'Hội thảo'],
 					['/event/fair.md', 'Hội chợ'],
+					['/event/meeting.md', 'Hội nghị khách hàng'],
 					['/event/plan.md', 'Kế hoạch'],
 					['/event/rule.md', 'Quy định']
 				]
@@ -59,6 +60,7 @@ module.exports = {
 				]
 
 			},
+			['/trade/', 'Trade marketing'],
 			['/trademark/', 'Trademark'],
 			{
 				title: 'Other',
