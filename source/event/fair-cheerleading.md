@@ -8,6 +8,8 @@ Thích hợp: thu hút trẻ con.
 
 Kinh nghiệm: năm 2017 và 2018 công ty đã tổ chức hoạt động này tại hội chợ HVNCLC Hồ Chí Minh.
 
+Chi phí khoảng 500k - 700k/2h.
+
 ### 2. Đố vui
 Vào một khung giờ cố định, MC sẽ đọc các câu hỏi (đơn giản) để người tiêu dùng có thể tham gia trả lời. Thông thường, mỗi người sẽ trả lời khoảng 4 - 6 câu hỏi. Nếu đúng tất cả các câu hỏi mới được nhận thưởng.
 
