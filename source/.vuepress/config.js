@@ -36,6 +36,7 @@ module.exports = {
 				children: [
 					['/event/workshop.md', 'Hội thảo'],
 					['/event/fair.md', 'Hội chợ'],
+					['/event/exhibition.md', 'Triển lãm'],
 					['/event/meeting.md', 'Hội nghị khách hàng'],
 					['/event/plan.md', 'Kế hoạch'],
 					['/event/rule.md', 'Quy định']
