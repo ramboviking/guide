@@ -22,6 +22,7 @@ module.exports = {
 			{ text: 'About', link: '/about.md'}
 			
 		],
+		sidebarDepth: 2,
 		sidebar: [
 			{
 				title: 'Budget',
@@ -34,6 +35,7 @@ module.exports = {
 				title: 'Event',
 				path: '/event/',
 				children: [
+					['/event/group-present.md', 'Group present'],
 					['/event/workshop.md', 'Hội thảo'],
 					['/event/fair.md', 'Hội chợ'],
 					['/event/exhibition.md', 'Triển lãm'],
@@ -62,6 +64,14 @@ module.exports = {
 
 			},
 			['/trade/', 'Trade marketing'],
+			{
+				title: 'Trade marketing',
+				path: '/trade/',
+				children: [
+					['/trade/promotion.md', 'Promotion'],
+					['/trade/loyalty.md', 'Loyalty']
+				]
+			},
 			['/trademark/', 'Trademark'],
 			{
 				title: 'Other',

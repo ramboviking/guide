@@ -2,6 +2,9 @@
 Hội nghị khách hàng là buổi họp mặt các nhà thuốc của chi nhánh. Đây là hoạt động giúp các khách hàng gắn kết với nhau và cơ hội để OPC gia tăng doanh số.
 
 ## Trang trí
+### Cổng
+### Sảnh
+### Hội trường
 ## Quà tặng
 Quà tặng tham dự: quà tặng dành cho tất cả khách hàng có mặt tại sự kiện.
 
