@@ -5,7 +5,6 @@ module.exports = {
 	dest: './docs',
 	themeConfig: {
 		nav: [
-			{ text: 'Guide', link: '/' },
 			{ text: 'Resource',
 			  items: [
 				  { text: 'Quy định', items: [
@@ -17,11 +16,12 @@ module.exports = {
 					  { text: 'Certificate', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=0'},
 					  { text: 'Award', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=1106985385'},
 					  { text: 'Verify', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=1746001221'},
-				  ] }
+				  ] },
+				  { text: 'Page', items: [
+					  { text: 'About', link: '/about.md'}
+				  ]}
 			  ],
 			},
-			{ text: 'About', link: '/about.md'}
-			
 		],
 		sidebarDepth: 2,
 		sidebar: {
@@ -44,18 +44,6 @@ module.exports = {
 				]
 			},
 			{
-				title: 'Event',
-				path: '/event/',
-				children: [
-					['/event/group-present.md', 'Group present'],
-					['/event/consult.md', 'Tư vấn'],
-					['/event/workshop.md', 'Hội thảo'],
-					['/event/fair.md', 'Hội chợ'],
-					['/event/exhibition.md', 'Triển lãm'],
-					['/event/meeting.md', 'Hội nghị khách hàng']
-				]
-			},
-			{
 				title: 'Research',
 				path: '/research/',
 				children: [
@@ -68,6 +56,19 @@ module.exports = {
 				]
 			},
 			{
+				title: 'Event',
+				children: [
+					['/event/', 'Quy tắc chung'],
+					['/event/group-present.md', 'Group present'],
+					['/event/consult.md', 'Tư vấn'],
+					['/event/workshop.md', 'Hội thảo'],
+					['/event/fair.md', 'Hội chợ'],
+					['/event/exhibition.md', 'Triển lãm'],
+					['/event/meeting.md', 'Hội nghị khách hàng']
+				]
+			},
+			
+			{
 				title: 'Quảng cáo',
 				path: '/ads/',
 				children: [
@@ -75,7 +76,6 @@ module.exports = {
 				]
 
 			},
-			['/trade/', 'Trade marketing'],
 			{
 				title: 'Trade marketing',
 				path: '/trade/',

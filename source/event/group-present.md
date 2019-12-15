@@ -73,3 +73,13 @@ Tổng chi phí cho một buổi group present cho 20 bác sĩ không được v
 ::: danger
 Không sử dụng rượu, bia và thức uống có cồn.
 :::
+
+## Thách thức
+* Thách thức lớn nhất trong việc tổ chức group present là số lượng tham dự. Để giải quyết rủi ro này thì áp dụng một số phương pháp sau (giả định kế hoạch là 20-30 khách):
+	* Số lượng mời luôn là cận trên của kế hoạch (30 người).
+	* Có danh sách dự phòng (danh sách chính thức 30, danh sách trù bị 15). Khi bác sĩ trong danh sách chính thức từ chối tham gia thì tự động mời bổ sung bác sĩ trong danh sách trù bị theo thứ tự (đảm bảo luôn luôn có 30 người được mời).
+	* Giữ liên lạc liên tục với bác sĩ để cập nhật tình hình theo thời gian thực.
+* Hiệu quả của buổi group present cũng là một thách thức lớn cần quan tâm. Mục đích cuối cùng của group present cũng là tăng kê đơn, tăng nhập hàng, tăng doanh thu, tăng lợi nhuận.
+	* Liên tục cải tiến nội dung bài giới thiệu sản phẩm.
+	* Rèn luyện kỹ năng thuyết trình.
+	* Kết hợp thêm nhiều phương pháp khác để tấn công bác sĩ.
