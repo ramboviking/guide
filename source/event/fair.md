@@ -14,7 +14,7 @@ Hiện tại, công ty chỉ tham gia hội chợ Hàng Việt Nam chất lượ
 * Hỗ trợ dàn dựng, tháo dỡ.
 ### Chi nhánh
 * [Chuẩn bị hàng bán, quà khuyến mãi](./fair-estimate.md),
-* Bán hàng, thu tiền,
+* [Bán hàng, thu tiền](./fair-sale.md),
 * Quản lý hàng hóa,
 * [Tuyển dụng nhân viên thời vụ](./fair-recruit.md) (nếu có),
 * Hỗ trợ dàn dựng, tháo dỡ.
@@ -39,6 +39,8 @@ Hiện tại, công ty chỉ tham gia hội chợ Hàng Việt Nam chất lượ
 * Sắp xếp, trưng bày hàng hóa,
 ### Ngày diễn ra hội chợ
 * Kiểm hàng đầu ca trực <Badge text="CN" type="tip" />,
+* [Bán hàng](./fair-sale.md) <Badge text="CN" type="tip" />,
+* [Dự trù hàng ngày tiếp theo](./fair-estimate.md) <Badge text="CN" type="tip" />,
 * Ký [biên bản bàn giao](https://www.dropbox.com/s/5mhawb57a80x8f0/M%E1%BA%ABu%20giao%20ca%20tr%E1%BB%B1c.docx?dl=0) cuối ca <Badge text="CN" type="tip" />.
 ### Ngày kết thúc
 * 19h - Thanh toán phí phát sinh (nếu có)
@@ -55,3 +57,33 @@ Hiện tại, công ty chỉ tham gia hội chợ Hàng Việt Nam chất lượ
 ## Situations
 1. Trường hợp mất hàng
 2. Trường hợp nhu cầu hàng hóa vượt ước tính
+
+## Measure
+Sử dụng các chỉ số sau để đo lường
+1. Oder - Số lượng đơn hàng
+2. Interested - Số lượng người quan tâm
+3. Reach - Số lượng người tiếp cận
+
+* Mỗi khách tham quan đến gian hàng sẽ được nhận 1 vật phẩm. Vật phẩm này có giá trị thấp vừa với mục đích kiểm soát số lượng vừa có giá trị quảng bá sản phẩm. Một số vật phẩm gợi ý: tờ thông tin bệnh, thư mời hội thảo, voucher, coupon, flashcard...
+* Nếu khách tham quan mua hàng thì sẽ không nhận được vật phẩm ở trên (thay vào đó được nhận quà khuyến mãi theo chương trình). Đồng thời ghi lại [đơn hàng](./fair-sale.md) và thời điểm mua hàng.
+* Mỗi khách tham quan đi ngang gian hàng sẽ được phát 01 tờ rơi giới thiệu sản phẩm. Số lượng tờ rơi phát ra sẽ được xem như là số khách hàng tiếp cận. Ngoài ra, có thể sử dụng các máy đếm tự động để đo lường số khách hàng tiếp cận.
+
+## Evaluate
+Một kỳ hội chợ thông thường phải đạt các chỉ số sau:
+
+| Chỉ số | Cận dưới | Trung bình | Cận trên |
+| --- | :---: | :---: | :---: |
+| **Order** | 600 | 1.200 | 2.400 |
+| **Interrested** | 3.000 | 5.000 | 10.000 |
+| **Reach** | 10.0000 | 20.000 | 40.000 |
+
+Bên cạnh đó, hiệu quả chương trình còn được đánh giá thông qua một vài chỉ số tài chính.
+1. Đơn giá quảng bá = tổng chi / tổng số tiếp cận <= 5.000 đ.
+2. Cost per acquisition = tổng chi / tổng số khách hàng <= 100.000 đ.
+3. Hiểu quả đầu tư = tổng chi vs tổng doanh thu (trước VAT).
+
+Trong đó, tổng chi là tất cả chi phí phát sinh của sự kiện (bao gồm cả chi phí khuyến mãi) nhưng không bao gồm giá vốn hàng bán. Trường hơp tổ chức các [hoạt động tương hỗ](./fair-sync.md) với hội chợ thì tổng chi không bao gồm chi phí của hoạt động tương hỗ.
+
+::: warning
+Không so sánh hiệu quả giữa hội chợ có hoạt động tương hỗ và không có hoạt động tương hỗ vì không cùng nhóm.
+:::

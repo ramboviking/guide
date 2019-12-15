@@ -3,7 +3,7 @@
 Hội thảo bao gồm:
 1. Hội thảo khoa học,
 2. Hội thảo giới thiệu thuốc.
-3. Hội thảo tư vấn bệnh.
+3. [Hội thảo tư vấn bệnh.](./consult.md)
 
 Trong chương trình hội thảo nếu có nội dung giới thiệu thuốc thì bắt buộc phải thực hiện thủ tục đăng ký với Sở y tế tại địa phương nơi tổ chức hội thảo.
 

@@ -9,7 +9,8 @@ module.exports = {
 			{ text: 'Resource',
 			  items: [
 				  { text: 'Quy định', items: [
-					  { text: 'SOP', link: 'https://docs.google.com/spreadsheets/d/1t4DR1owReaFl8sYtmrnh8jtu6RhjFXucAmK9_CoQ_r8/'},
+					  { text: 'Proccess', link: '/proccess/'},
+					  { text: 'Procedure', link: 'https://docs.google.com/spreadsheets/d/1t4DR1owReaFl8sYtmrnh8jtu6RhjFXucAmK9_CoQ_r8/'},
 				  	  { text: 'Rule', link: 'https://opcpharma.com' }
 				  ] },
 				  { text: 'Danh sách', items: [
@@ -23,7 +24,18 @@ module.exports = {
 			
 		],
 		sidebarDepth: 2,
-		sidebar: [
+		sidebar: {
+			'/proccess/': [
+				{
+					title: 'Proccess',
+					children: [
+						['/proccess/', 'Introduction'],
+						['/proccess/develop.md', 'Develop']
+					]
+				}
+			],
+			// fallback
+			'/': [
 			{
 				title: 'Budget',
 				path: '/budget/',
@@ -36,12 +48,11 @@ module.exports = {
 				path: '/event/',
 				children: [
 					['/event/group-present.md', 'Group present'],
+					['/event/consult.md', 'Tư vấn'],
 					['/event/workshop.md', 'Hội thảo'],
 					['/event/fair.md', 'Hội chợ'],
 					['/event/exhibition.md', 'Triển lãm'],
-					['/event/meeting.md', 'Hội nghị khách hàng'],
-					['/event/plan.md', 'Kế hoạch'],
-					['/event/rule.md', 'Quy định']
+					['/event/meeting.md', 'Hội nghị khách hàng']
 				]
 			},
 			{
@@ -52,7 +63,8 @@ module.exports = {
 					['/research/satisfaction.md', 'Sự hài lòng'],
 					['/research/analysis.md', 'Phân tích kinh doanh'],
 					['/research/bidding.md', 'Kết quả trúng thầu'],
-					['/research/declare.md', 'Giá kê khai']
+					['/research/declare.md', 'Giá kê khai'],
+					['/research/discuss.md', 'Thảo luận']
 				]
 			},
 			{
@@ -83,7 +95,7 @@ module.exports = {
 				]
 			}
 			
-		],
+		]},
 		
 		// Github repo and Edit Links
 		repo: 'ramboviking/guide',
