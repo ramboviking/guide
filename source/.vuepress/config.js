@@ -18,6 +18,7 @@ module.exports = {
 					  { text: 'Verify', link: 'https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit#gid=1746001221'},
 				  ] },
 				  { text: 'Page', items: [
+					  { text: 'Tư vấn', link: '/consult/'},
 					  { text: 'About', link: '/about.md'}
 				  ]}
 			  ],
@@ -34,6 +35,19 @@ module.exports = {
 					]
 				}
 			],
+			'/consult/': [
+				{
+					title: 'Tư vấn',
+					children: [
+						['/consult/ktt/', 'Thuốc trị sỏi thận Kim Tiền Thảo'],
+						['/consult/mimosa/', 'MIMOSA viên an thần'],
+						['/consult/hoastex/', 'HoAstex'],
+						['/consult/cim/', 'Cao Ích Mẫu'],
+						['/consult/opsure/', 'Kiện nhi OPSURE']
+					]
+				}
+			],
+			
 			// fallback
 			'/': [
 			{

@@ -24,7 +24,7 @@ Chi phí marketing được định khoản trong 2 tài khoản sau:
 * P33 Tiếp khách
 * P40 Nhượng quyền
 * P42 Công tác phí
-* P45 Phụ cấp nhân viên
+* P45 [Phụ cấp nhân viên](./internal.md)
 * P48 Đăng ký, thẩm định, kiểm nghiệm thuốc
 * P58 Tài trợ khác
 * P68 Phí, lệ phí hiệp hội
