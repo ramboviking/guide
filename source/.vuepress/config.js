@@ -70,6 +70,19 @@ module.exports = {
 				]
 			},
 			{
+				title: 'Communication',
+				children: [
+					['/communication/', 'Introduction'],
+					['/communication/article/', 'Article'],
+					['/communication/blog/', 'Blog'],
+					['/communication/newsletter/', 'Newsletter'],
+					['/communication/social/', 'Social'],
+					['/communication/publication/', 'Publication'],
+					['/communication/regulatory/', 'Regulatory affair'],
+					['/communication/csr/', 'Coporate Social Responsibility'],
+				]
+			},
+			{
 				title: 'Event',
 				children: [
 					['/event/', 'Quy tắc chung'],
