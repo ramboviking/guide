@@ -63,7 +63,7 @@ module.exports = {
 				children: [
 					['/research/feedback.md', 'Thông tin thị trường'],
 					['/research/satisfaction.md', 'Sự hài lòng'],
-					['/research/analysis.md', 'Phân tích kinh doanh'],
+					['/research/sale.md', 'Phân tích kinh doanh'],
 					['/research/bidding.md', 'Kết quả trúng thầu'],
 					['/research/declare.md', 'Giá kê khai'],
 					['/research/discuss.md', 'Thảo luận']
@@ -97,10 +97,11 @@ module.exports = {
 			
 			{
 				title: 'Quảng cáo',
-				path: '/ads/',
 				children: [
+					['/ads/', 'Introduction'],
 					['/ads/tvc/', 'TVC'],
-					['/ads/print-ads/', 'Print Ads']
+					['/ads/print-ads/', 'Print Ads'],
+					['/ads/banner/', 'Banner']
 				]
 
 			},

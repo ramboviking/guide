@@ -4,7 +4,7 @@ Phần này bao gồm các hướng dẫn sáng tạo, đăng ký, thực hiện
 * [Sáng tạo TVC](./tvc/)
 * Sáng tạo radio
 * [Sáng tạo print ads](./print-ads/)
-* Sáng tạo digital banner
+* [Sáng tạo digital banner](./banner/)
 * Sáng tạo Google ads text
 ## Đăng ký
 [Hướng dẫn đăng ký quảng cáo thuốc](./medicine-application.md)

@@ -6,5 +6,8 @@ Mặc dụ có thể sử dụng bất kỳ phần mềm thiết kế nào, như
 3. **Modern:** mẫu quảng cáo được thiết kế dưới định dạng `HTML5`, đây là một định dạng hiện đại có nhiều ưu điểm và được Google khuyến cáo sử dụng.
 4. **Component:** phần mềm hỗ trợ sẵn những component thường dùng giúp quá trình thiết kế nhanh chóng hơn. Chẳng hạn image gallery, video player, map... Thậm chí, nếu các component này chưa đúng nhu cầu thì chúng ta có thể tự xây dựng các custom component vô cùng linh hoạt.
 
-5. **Asset:**
-6. **Group:** giả sử chúng ta có một đối tượng được sử dụng ở nhiều maquette khác nhau (ví dụ logo + slogan; cụm địa chỉ + điện thoại + email; cụm số lô + hạn dùng), phần mềm công cấp sẵn một tính năng giúp quản lý các cụm này hiệu quả hơn, đó là `GROUP`. Mỗi khi tạo một nhóm các đối tượng - tạo GROUP - thì group đó sẽ được hiển thị trong thư viện để có thể tái sử dụng trong các bản t
+5. **Asset:** đối với các tài nguyên dự định sử dụng cho nhiều mẫu thiết kê (vector, stock, hình ảnh nhân vật, bộ số, logo, hoa văn...), phần mềm cung cấp sẵn tính năng `thư viện` giúp việc quản lý tài nguyên dễ dàng hơn. Nói cách khác, `thư viện` :arrow_right: là nơi lưu trữ tập trung các tài nguyên thiết kế.
+6. **Group:** giả sử chúng ta có một đối tượng được sử dụng ở nhiều maquette khác nhau (ví dụ logo + slogan; cụm địa chỉ + điện thoại + email; cụm số lô + hạn dùng), phần mềm công cấp sẵn một tính năng giúp quản lý các cụm này hiệu quả hơn, đó là `GROUP`. Tính năng `GROUP` được tạo ra để việc tái sử dụng các cụm nói trên một cách đơn giản và tiện lợi hơn. Mỗi khi chỉnh sửa GROUP, tất cả maquette có sử dụng group đó đều được cập nhật :arrow_right: giúp cắt giảm đáng kể thời gian chỉnh sửa từng maquette.
+
+## Space
+Tùy theo yêu cầu cụ thể của từng publisher mà chừa lề sao cho phù hợp. Nhìn chung, đa số các tạp chí, báo đều đưa thông số kích thước tràn viền (margin = 0). Padding nên ở mức 2,5 rem hoặc 1,25%.

@@ -12,10 +12,10 @@ Hồ sơ đăng ký quảng cáo thuốc bao gồm:
 **Nội dung quảng cáo:** Tùy theo loại hình quảng cáo mà nội dung quảng cáo kèm theo trong hồ sơ có thể là mẫu in (nếu quảng cáo dạng in ấn), đĩa ghi âm, ghi hình và kịch bản (nếu quảng cáo dạng trên báo nói, báo hình, thiết bị điện tử...)
 
 **Tài liệu tham khảo có liên quan:**
-- Nếu mẫu quảng cáo có sử dụng của số liệu nghiên cứu lâm sàng thì đính kèm nghiên cứu lâm sàng.'
+- Nếu mẫu quảng cáo có sử dụng của số liệu nghiên cứu lâm sàng thì đính kèm nghiên cứu lâm sàng.
 - Nếu mẫu quảng cáo có sử dụng hình ảnh các danh hiệu, giải thưởng thì đính kèm quyết định.
 
-Phí xác nhận nội dung quảng cáo thuốc: 1.600.00 đồng/hồ sơ
+Phí xác nhận nội dung quảng cáo thuốc: 1.600.00 đồng/hồ sơ.
 ## Quy trình
 1. Nộp hồ sơ tại Cục.
 2. Cục Cấp giấy xác nhận nội dung quảng cáo trong vòng 10 ngày.
