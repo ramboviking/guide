@@ -99,7 +99,8 @@ module.exports = {
 				title: 'Quảng cáo',
 				path: '/ads/',
 				children: [
-					['/ads/tvc.md', 'TVC']
+					['/ads/tvc/', 'TVC'],
+					['/ads/print-ads/', 'Print Ads']
 				]
 
 			},

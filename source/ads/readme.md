@@ -1,9 +1,9 @@
 # Advertisement
 Phần này bao gồm các hướng dẫn sáng tạo, đăng ký, thực hiện quảng cáo.
 ## Sáng tạo
-* Sáng tạo TVC
+* [Sáng tạo TVC](./tvc/)
 * Sáng tạo radio
-* Sáng tạo print ads
+* [Sáng tạo print ads](./print-ads/)
 * Sáng tạo digital banner
 * Sáng tạo Google ads text
 ## Đăng ký
