@@ -34,7 +34,17 @@ Chúng ta sẽ tìm lần lượt "HoDo\*", "\*HoDo", "DoCu\*", "\*DoCu", "Ho\*C
 ## Đánh giá khả năng bảo hộ
 Mặc dù việc tra cứu có thể thực hiện một cách đơn giản và kết quả thu được khá rõ ràng. Tuy nhiên, do dữ liệu công bố của thư viện số sở hữu trí tuệ [IPLIB](http://iplib.noip.gov.vn/WebUI/WSearch.php) chưa đầy đủ, và thực tế nhận định có thể rất khác nhau tùy người và tùy hoàn cảnh cụ thể. Do đó, việc đánh giá khả năng bảo hộ của một nhãn hiệu thực tế là một việc rất khó khăn. Vì các lý do này mà việc đánh giá chỉ có thể thực hiện bởi các công ty luật hoặc người của Cục SHTT.
 
+::: tip Căn cứ pháp lý
+Căn cứ pháp lý cho việc đánh giá là điều 74.2e và điều 90.2 của luật SHTT.
+
+**74.2 e)** Dấu hiệu không phải là nhãn hiệu liên kết trùng hoặc tương tự đến mức gây nhầm lẫn với nhãn hiệu đã được đăng ký cho hàng hoá, dịch vụ trùng hoặc tương tự trên cơ sở đơn đăng ký có ngày nộp đơn hoặc ngày ưu tiên sớm hơn trong trường hợp đơn đăng ký được hưởng quyền ưu tiên, kể cả đơn đăng ký nhãn hiệu được nộp theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên
+
+**90.2** Trong trường hợp có nhiều đơn đăng ký cùng đáp ứng các điều kiện để được cấp văn bằng bảo hộ và cùng có ngày ưu tiên hoặc ngày nộp đơn sớm nhất thì văn bằng bảo hộ chỉ có thể được cấp cho một đơn duy nhất trong số các đơn đó theo sự thoả thuận của tất cả những người nộp đơn; nếu không thoả thuận được thì tất cả các đơn đều bị từ chối cấp văn bằng bảo hộ. 
+:::
+
 Kết quả đánh giá có thể được đọc theo quy ước như sau:
 * 50% - 59% khả năng bảo hộ thấp, có rủi ro khi thực hiện nộp đơn.
 * 60% - 70% có khả năng bảo hộ, có thể nộp đơn trong trường hợp này.
 * 71% trở lên, khả năng bảo hộ cao.
+
+[Tham khảo một vài trường hợp thực tế.](./lookups-eg.md)
