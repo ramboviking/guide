@@ -4,6 +4,8 @@
 2. Nhãn hiệu tương tự với nhãn hiệu đã đăng ký, nhưng nhãn hiệu đối chứng không được sử dụng :point_right: nộp đơn đề nghị thu hồi nhãn hiệu đối chứng trước khi nộp đơn đăng ký.
 3. Nhãn hiệu tương tự với nhãn hiệu đã đăng ký, nhưng nhãn hiệu đối chứng đã hết hạn hiệu  lực :point_right: thời gian để cập nhật gia hạn lên website có thể mất đến từ 6 tháng - 1 năm, nên không chắc chắn đối chứng có gia hạn hay không.
 4. Nhãn hiệu tương tự với nhãn hiệu đã nộp đơn, nhưng nhãn hiệu đối chứng chưa được cấp văn bằng bảo hộ chính thức :point_right: nếu đối chứng được bảo hộ thì theo nguyên tắc ưu tiên, nhãn hiệu cần đăng ký sẽ không được bảo hộ.
+5. Nhãn hiệu là một từ có nghĩa (thuộc một ngôn ngữ bất kỳ) :point_right: không được bảo hộ.
+6. Nhãn hiệu là một địa danh, một tên riêng của người, tên khoa học của 1 loài... :point_right: không được bảo hộ.
 
 ## Case
 ### Một phần của đối chứng
