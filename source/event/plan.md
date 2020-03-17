@@ -10,7 +10,9 @@ Lập kế hoạch theo mẫu sau.
 Trong đó, cách ghi các nội dung như sau:
 * Phân loại: ghi một trong 2 loại của sự kiện, một tự tổ chức, hai là tài trợ.
 * Thời điểm: ghi khoảng thời gian dự kiến sẽ tổ chức sự kiện. Nếu không có ngày cụ thể, có thể ghi tháng dự kiến hoặc quý dự kiến.
+* Mục tiêu: liệt kê các chỉ số và mục tiêu cần đạt được (về đơn hàng, số người quan tâm, số người tiếp cận, số lượng lead, hợp đồng... tùy thuộc vào từng sự kiện cụ thể)
 * Ngân sách: ghi giá trị ngân sách dự kiến sau thuế.
+
 
 ## Thông lệ
 1. Hội nghị khách hàng thường sẽ được tổ chức từ 2-3 năm/lần/ chi nhánh. Thời điểm tổ chức thích hợp là quý II & quý III, tránh tổ chức vào quý IV vì trùng thời điểm với các công ty khác và bận rộn.

@@ -52,3 +52,6 @@ Trường hợp một chuỗi hội thảo có nội dung giống nhau nhưng t�
 
 *Nguồn thông tin: Cục QLD phát biểu tại hội thảo triển khai Nghị định 54/2017.*
 :::
+
+## Hoạch toán chi phí
+Tham khảo [quy định về chi phí hợp lý, hợp lệ](../budget/eligible.html)

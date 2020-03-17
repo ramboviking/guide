@@ -13,7 +13,7 @@ Mục đích của khuyến mãi là để up sale. Do đó, không nên dùng k
 ## Theo dõi xuất nhập tồn
 1. Sổ xuất bán
 
-| Stt | Ngày giờ | Tên hàng 01 | Tên hàng 01 | Tên hàng ... | Tiền |
+| Stt | Ngày giờ | Tên hàng 01 | Tên hàng 02 | Tên hàng ... | Tiền |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | .. | ... | ... |... | ... | ... |
 
