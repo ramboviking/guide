@@ -1,4 +1,4 @@
-# Introduction
+# QTM guideline
 
 Đây là hướng dẫn công việc (*Guideline*) của phòng QTM. Nội dung hướng dẫn này gồm các mục chính như sau:
 1. Tổ chức sự kiện,

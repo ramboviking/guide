@@ -120,7 +120,8 @@ module.exports = {
 				children: [
 					['/text-decoration.md', 'Text decoration'],
 					['/name-convention.md', 'Name convention'],
-					['/administration/', 'Hành chánh']
+					['/administration/', 'Hành chánh'],
+					['/company-index.md', 'Company Index']
 				]
 			}
 			

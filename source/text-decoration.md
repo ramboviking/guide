@@ -20,6 +20,10 @@ Viên-mũi xoang RHINASSIN-OPC --> không có khoảng trắng giữa các dầu
 Para-OPC 150mg -> không có khoảng trắng giữa dấu gạch ngang.
 :::
 
+::: danger
+Do website của Cục quản lý Dược không hỗ trợ ký tự đặc biệt nên không dùng các ký tự đặc biệt khi viết tên thuốc. Bao gồm superscript, subscript, α β γ δ...
+:::
+
 **Một số trường hợp ngoại lệ**
 * HoAstex: viết hoa ký tự nằm giữa từ "A".
 * Cao Linh chi - Nhân sâm Lingzhi - Ginseng extract: viết hoa ký tự đầu của tên các dược liệu để tuân thủ [nguyên tắc viết tên dược liệu](#ten-duoc-lieu) ("Linh chi", "Nhân sâm", "Lingzhi", "Ginseng")
