@@ -6,7 +6,7 @@ Hồ sơ đăng ký quảng cáo thuốc bao gồm:
 1. Đơn đề nghị xác nhận nội dung quảng cáo thuốc [ND54_Mau01_PhuLucVI](http://csdl.thutuchanhchinh.vn/TW/Lists/ThanhPhanHoSo/Attachments/233730/ND%2054_Mau%2001_Phuluc%20VI.docx) <Badge text="bản chính" type="tip" />
 2. Nội dung quảng cáo thuốc 
 3. Mẫu nhãn, tờ hướng dẫn sử dụng thuốc đã được Cục quản lý Dược phê duyệt <Badge text="dấu treo" type="warn" />
-4. Tài liệu tham khảo có liên quan đến nội dung quảng cáo thuốc (nếu có) <Badge text="dấu treo" type="warn" />
+4. Tài liệu tham khảo có liên quan đến nội dung quảng cáo thuốc (nếu có) <Badge text="công chứng" type="error" />
 5. Giấy phép lưu hành sản phẩm <Badge text="dấu treo" type="warn" />
 6. Giấy chứng nhận đăng ký kinh doanh <Badge text="công chứng" type="error" />, Giấy đủ điều kiện kinh doanh dược <Badge text="công chứng" type="error" />
 
@@ -26,7 +26,7 @@ Phí xác nhận nội dung quảng cáo thuốc: 1.600.00 đồng/hồ sơ.
 1. Sau khi thiết kế xong thì trình ký Tổng [Đơn đề nghị xác nhận nội dung quảng cáo thuốc](http://csdl.thutuchanhchinh.vn/TW/Lists/ThanhPhanHoSo/Attachments/233730/ND%2054_Mau%2001_Phuluc%20VI.docx) (Đơn này chỉ lưu nội bộ).
 2. Nộp hồ sơ tại website [Dịch vụ công trực tuyến](https://dav.gov.vn/dich-vu-cong-c5.html) của CQLD.
 3. Thanh toán phí xác nhận nội dung quảng cáo (hình thức chuyển khoản vào tài khoản VPBank theo thông tin trên Giấy báo thu).
-4. Lấy biên lai sau khi thanh toán (phối hợp với CN Hà Nội - mang theo mã số hồ sơ QC).
+4. Lấy biên lai sau khi thanh toán (phối hợp với CN Hà Nội - mang theo Giấy giới thiệu, Ủy nhiệm chi).
 5. Cục xem xét hồ sơ và cấp Giấy xác nhận nội dung quảng cáo hoặc yêu cầu sửa đổi, bổ sung.
 
 Thời gian thông thường để được xác nhận nội dung cho 1 mẫu quảng cáo khoảng 3 tháng (với trung bình khoảng 1 lần góp ý).
@@ -37,7 +37,7 @@ Theo dõi tình trạng hồ sơ định kỳ mỗi tuần tại website [Dịch
 
 ## Hướng dẫn
 * Đối với quảng cáo ngoài trời: cần ghi rõ tỷ lệ của maquette so với thực tế.
-* Đối với quảng cáo banner, poster, màn hình chuyên quảng cáo: liệt kê thứ tự xuất hiện của các trang, chuyển động của các phần tử trên trang -> gọi chung là Kịch bản xuất hiện.
+* Đối với quảng cáo màn hình chuyên quảng cáo, trang thông tin điện tử, website: liệt kê thứ tự xuất hiện của các trang, chuyển động của các phần tử trên trang -> gọi chung là Kịch bản xuất hiện.
 
 ## Thao tác trực tuyến
 ### Tạo mới hồ sơ
@@ -57,7 +57,7 @@ Trong phần **Thông tin cơ sở đề nghị xác nhận**, hệ thống đã
 
 Nhập các thông tin của thuốc đúng theo thông tin thể hiện trên *Giấy phép lưu hành sản phẩm*. Nếu thông tin sản phẩm có thay đổi thì nhập theo thay đổi mới nhất và đính kèm công văn đồng ý thay đổi thôn tin thuốc của Cục Quản lý Dược.
 * Hoạt chất ghi nguyên văn giống visa.
-* Hàm lượng để trống đối với thuốc dược liệu, đối với thuốc hóa dược thì ghi rõ hàm lượng.
+* Hàm lượng ghi theo thực tế.
 * Nhà sản xuất ghi nguyên văn "Công ty Cổ phần Dược phẩm OPC".
 
 4. **Phương tiện quảng cáo**
@@ -111,6 +111,7 @@ Sau khi đã tạo xong hồ sơ, nhấn vào nút "Danh sách hồ sơ" của t
 ![Advertising list](../assets/img/screenshot/ads-list.png)
 
 Với mỗi hồ sơ trong danh sách, sẽ có **trạng thái hồ sơ** và các nút chức năng **Hành động** mà hệ thống cho phép thực hiện. Tìm nút chức năng "Ký số" đối với hồ sơ mới tạo và tiến hành ký số (cần token vật lý - liên hệ IT để được hỗ trợ nếu chưa cài đặt chữ ký số).
+Sau khi ký xong thì xem lại hồ sơ rồi nhấn vào nút "Nộp hồ sơ".
 
 ### Thanh toán
 Sau khi hoàn thành hành động "Ký số" thì tiến hành thủ tục "Thanh toán" bằng hình thức chuyển khoản.
