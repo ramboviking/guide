@@ -1,4 +1,7 @@
 # Trademark
+Trademark là một thành phần cấu thành nên tên sản phẩm, giúp người dùng dễ dàng nhận biết sản phẩm. Trong đó, trademark là thành phần có thể đăng ký bảo hộ nhãn hiệu với Cục Sở Hữu Trí Tuệ.
+
+Tham khảo [Hướng dẫn đặt tên sản phẩm](./naming/naming.md)
 
 ## Khái niệm
 * Nhãn hiệu
