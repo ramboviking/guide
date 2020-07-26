@@ -28,7 +28,10 @@ Tên sản phẩm thể hiện một manh mối nào đó của sản phẩm. Kh
 Tên sản phẩm có khả năng cao đăng ký bảo hộ nhãn hiệu tại Cục Sở Hữu Trí Tuệ.
 * Khác biệt so với các nhãn trên thị trường tối thiểu 2 âm.
 * Khác biệt so với các nhãn trên thị trường 1 âm, nhưng âm còn lại có cách viết hoàn toàn khác.
-* Tên sản phẩm có chứa điểm độc đáo (Googol viết sai chính tả một cách vô tình -> Google).
+* Tên sản phẩm có chứa điểm độc đáo:
+	- Googol viết sai chính tả một cách vô tình -> Google.
+	- Adobe xuất từ tên của con sông  chảy xung quanh nhà của co-founder John Warnock.
+	- Hotmail là cách viết xuất phát từ h-t-m-l.
 
 ## Cạnh tranh
 Tên sản phẩm có chứa unique selling point/ điểm mạnh của sản phẩm so với các đối thủ cạnh tranh trên thị trường.
