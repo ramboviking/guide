@@ -12,6 +12,7 @@ Chi phí marketing được định khoản trong 2 tài khoản sau:
 - Việc định khoản sẽ dựa vào bản chất của khoản chi mà không phụ thuộc vào đơn vị đề nghị (ví dụ phòng NCPT đề nghị chi nhưng bản chất là chi phí bán hàng thì vẫn ghi vào `tài khoản 641`).
 - Thời điểm ghi khoản chi căn cứ vào thời điểm phát sinh chi phí (hoặc chứng từ) không căn cứu vào thời điểm chi (ví dụ quảng cáo tháng 5 nhưng chi tiền tháng 6 thì vẫn tính khoản chi cho tháng 5).
 - Số liệu trong các báo cáo phải là số trước thuế.
+- Đối với các khoản chi tiền mặt, bắt buộc TGĐ phải duyệt khoản chi trước khi soạn phiếu đề nghị thanh toán. Đối với đề nghị chuyển khoản thì không yêu cầu bắt buộc.
 
 ## Phân nhóm
 ### Danh sách nhóm
@@ -113,7 +114,8 @@ Mua gimmick: tùy vào **mục đích chủ yếu** của gimmick mà định kh
 
 
 **Xác định tài khoản**  
-Mua thuốc mẫu nếu có gửi mẫu cho phòng NCTP thì không hoạch toán vào tài khoản "Chi phí bán hàng" mà định khoản "Chi phí nghiên cứu"
+Mua thuốc mẫu nếu có gửi mẫu cho phòng NCTP thì không hoạch toán vào tài khoản "Chi phí bán hàng" mà định khoản "Chi phí nghiên cứu".
+
 Tiếp khách, đối ngoại không có chứng từ sẽ là chi phí không hợp lệ và bị loại khỏi tài khoản 641.
 
 Xem tiếp: [chi phí hợp lý, hợp lệ](./eligible.md)
