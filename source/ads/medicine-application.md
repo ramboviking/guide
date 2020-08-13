@@ -18,7 +18,7 @@ Nếu sản phẩm chưa có tờ giấy phép lưu hành thì có thể thay th
 
 **Tài liệu tham khảo có liên quan:**
 - Nếu mẫu quảng cáo có sử dụng của số liệu nghiên cứu lâm sàng thì đính kèm nghiên cứu lâm sàng.
-- Nếu mẫu quảng cáo có sử dụng hình ảnh các [danh hiệu, giải thưởng](https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit?usp=sharing) thì đính kèm quyết định (thưởng sử dụng là Thương hiệu quốc gia, Hàng Việt Nam chất lượng cao, Ngôi sao thuốc Việt).
+- Nếu mẫu quảng cáo có sử dụng hình ảnh các [danh hiệu, giải thưởng](https://docs.google.com/spreadsheets/d/1Zue-tOhOoYqT-OfpxysWW1gQuMkJKhcVl1QWGaALG8c/edit?usp=sharing) thì đính kèm quyết định (thưởng sử dụng là Thương hiệu quốc gia, Hàng Việt Nam chất lượng cao, Ngôi sao thuốc Việt). Bằng khen/ Giấy chứng nhận có giá trị tương đương Quyết định khen thưởng.
 
 Phí xác nhận nội dung quảng cáo thuốc: 1.600.00 đồng/hồ sơ.
 
