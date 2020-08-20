@@ -3,6 +3,9 @@
 
 1. Tên loài: tên khoa học của một loài bao gồm tên chi + tên loài. Tên loài viết hoa ký tự đầu tiên và in nghiêng.
 2. Tên họ: viết hoa ký tự đầu tiên, không in nghiêng
+3. Tên dược liệu: tên bộ phận dùng viết thường, còn lại viết theo quy ước của tên loài (viết hoa ký tự đầu tiên của tên loài).
+4. Tên bán thành phẩm: đối với các loại bán thành phẩm (cao chiết, bột mịn, dung dịch...) viết thường, phần còn lại viết theo quy ước của các quy tắc số 1,2,3.
+
 ## Tên thuốc
 Tên thuốc của OPC được viết theo các quy tắc sau:
 * Viết hoa ký tự đầu tiên của tên.
