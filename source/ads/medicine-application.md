@@ -113,6 +113,8 @@ Sau khi đã tạo xong hồ sơ, nhấn vào nút "Danh sách hồ sơ" của t
 Với mỗi hồ sơ trong danh sách, sẽ có **trạng thái hồ sơ** và các nút chức năng **Hành động** mà hệ thống cho phép thực hiện. Tìm nút chức năng "Ký số" đối với hồ sơ mới tạo và tiến hành ký số (cần token vật lý - liên hệ IT để được hỗ trợ nếu chưa cài đặt chữ ký số).
 Sau khi ký xong thì xem lại hồ sơ rồi nhấn vào nút "Nộp hồ sơ".
 
+[Hướng dẫn cài đặt token](../administration/token.md)
+
 ### Thanh toán
 Sau khi hoàn thành hành động "Ký số" thì tiến hành thủ tục "Thanh toán" bằng hình thức chuyển khoản.
 Nhấn vào nút hành động "Xem thông tin tiếp nhận" (icon hình tờ giấy có ký tự P - đại diện cho từ payment).
@@ -128,3 +130,6 @@ Sau khi kế toán chuyển tiền, scan và tải lên *Ủy nhiệm chi*.
 
 ### Theo dõi tiến trình
 Định kỳ hàng tuần truy cập vào website [Dịch vụ công trực tuyến](https://dav.gov.vn/dich-vu-cong-c5.html) để xem cập nhật trạng thái của hồ sơ. Nếu Cục Quản lý Dược có công văn phản hồi thì tiến hành giải trình, bổ sung theo yêu cầu.
+
+Xem thêm:
+- [Một số vấn đề thường gặp](./issue.md)
