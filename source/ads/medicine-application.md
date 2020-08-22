@@ -116,6 +116,7 @@ Sau khi ký xong thì xem lại hồ sơ rồi nhấn vào nút "Nộp hồ sơ"
 [Hướng dẫn cài đặt token](../administration/token.md)
 
 ### Thanh toán
+#### Chuyển khoản
 Sau khi hoàn thành hành động "Ký số" thì tiến hành thủ tục "Thanh toán" bằng hình thức chuyển khoản.
 Nhấn vào nút hành động "Xem thông tin tiếp nhận" (icon hình tờ giấy có ký tự P - đại diện cho từ payment).
 
@@ -125,8 +126,14 @@ Có 2 hình thức nộp phí, công ty lựa chọn phương pháp chuyển kho
 * Đơn đề nghị xác nhận nội dung quảng cáo thuốc đã được TGĐ phê duyệt.
 * Giấy báo thu (không cần xác nhận của Cục Quản lý Dược).
 * Biên lai thu phí (bổ sung sau khi thanh toán).
+#### Nhận biên lai
+Sau khi kế toán chuyển tiền, phối hợp với CN. Hà Nội để nhận biên lai thu tiền. Khi đến làm việc với Cục QLD, cần mang theo:
+1. Ủy nhiệm chi chuyển tiền,
+2. Giấy giới thiệu (nội dung nhận biên lai đăng ký quảng cáo thuốc).
+#### Tải lên chứng từ
+Sau khi đã nhận biên lai thì tiến hành tải lên Ủy nhiệm chi và Biên lai thu tiền.
 
-Sau khi kế toán chuyển tiền, scan và tải lên *Ủy nhiệm chi*.
+![Accreditative](../assets/img/screenshot/ads-accreditative.png)
 
 ### Theo dõi tiến trình
 Định kỳ hàng tuần truy cập vào website [Dịch vụ công trực tuyến](https://dav.gov.vn/dich-vu-cong-c5.html) để xem cập nhật trạng thái của hồ sơ. Nếu Cục Quản lý Dược có công văn phản hồi thì tiến hành giải trình, bổ sung theo yêu cầu.

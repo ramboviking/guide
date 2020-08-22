@@ -11,7 +11,9 @@ Phần này bao gồm các hướng dẫn sáng tạo, đăng ký, thực hiện
 
 [Hướng dẫn đăng ký quảng cáo TPCN](./supplement-application.md)
 
-[Hướng dẫn đăng ký thông tin thuốc](present-application.md)
+[Hướng dẫn đăng ký thông tin thuốc](./present-application.md)
+
+[Lưu trữ hồ sơ](./storage.md)
 
 ## Thực hiện
 
