@@ -5,8 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"source:build": "vuepress build source"
+    "source:build": "vuepress build source"
   },
   "author": "Viking",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@vuepress/core": "^1.5.4"
+  }
 }
