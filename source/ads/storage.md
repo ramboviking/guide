@@ -20,11 +20,12 @@ Các văn bản quảng cáo được lưu trữ thành 3 phần riêng biệt n
 	5. Mẫu nhãn (phiên bản đóng dấu Cục QLD)
 	6. Tờ hướng dẫn sử dụng (phiên bản đóng dấu Cục QLD)
 	7. Tài liệu tham khảo của sản phẩm đăng ký (nếu có)
-	8. Giấy ủy nhiệm chi
-	9. Biên lai thu phí
-	10. Công văn góp ý của Cục (nếu có)
-	11. Công văn giải trình/ phúc đáp (nếu có)
-	12. Công văn từ chối (nếu có)
+	8. Phiếu báo thu (không có chữ ký)
+	9. Giấy ủy nhiệm chi
+	10. Biên lai thu phí
+	11. Công văn góp ý của Cục (nếu có)
+	12. Công văn giải trình/ phúc đáp (nếu có)
+	13. Công văn từ chối (nếu có)
 
 ::: warning
 Các tài liệu sử dụng chung và có trong bất kỳ hồ sơ đăng ký quảng cáo nào thì không cần lưu riêng trong từng bộ hồ sơ sản phẩm mà lưu chung tại vị trí đầu tiên với tên "Tài liệu dùng chung". Bao gồm:
@@ -37,27 +38,35 @@ Các tài liệu sử dụng chung và có trong bất kỳ hồ sơ đăng ký 
 :::
 
 2. Hồ sơ đăng ký quảng cáo lưu theo thứ tự thời gian, không phân chia loại hình quảng cáo (lưu chung hồ sơ tất cả loại quảng cáo, bao gồm cả thông tin thuốc).
-3. File mềm lưu theo dạng phẳng trong cùng một thư mục gốc, mỗi thư mục con chứa hồ sơ của một sản phẩm.
+3. File mềm lưu theo dạng phẳng trong cùng một thư mục `./SẢN PHẨM`, mỗi thư mục con chứa hồ sơ của một sản phẩm.
 4. Nếu một sản phẩm có nhiều lần đăng ký khác nhau thì tiếp tục tạo một thư mục con cho mỗi lần đăng ký.
+5. Các file dùng chung (ĐKKD, đủ ĐK KD, các danh hiệu) lưu trực tiếp trong thư mục gốc `./filename`
 
 ```
-Hồ sơ đăng ký quảng cáo  
-|  
-|- Kiện nhi OPSURE  
-|     |-- Báo chí  
-|     |-- Phương tiện giao thông  
-|     |-- TVC  
-|  
-|- Viên sáng mắt  
-|     |-- Báo chí  
-|     |-- Báo chí (lần 2)  
-|     |-- Internet  
-|  
-|- Viên dị ứng kim ngân OPC  
-|  
-|- Viên an nhũ OPC  
-|  
-|- Viên dưỡng não OP.BRAIN F  
+Hồ sơ đăng ký quảng cáo
+|--	SẢN PHẨM
+|		|  
+|		|- Kiện nhi OPSURE  
+|		|     |-- Báo chí  
+|		|     |-- Phương tiện giao thông  
+|		|     |-- TVC  
+|		|  
+|		|- Viên sáng mắt  
+|		|     |-- Báo chí  
+|		|     |-- Báo chí (lần 2)  
+|		|     |-- Internet  
+|		|  
+|		|- Viên dị ứng kim ngân OPC  
+|		|  
+|		|- Viên an nhũ OPC  
+|		|  
+|		|- Viên dưỡng não OP.BRAIN F  
+|--	ĐKKD
+|--	Đủ điều kiện kinh doanh
+|--	ĐKNH - OPC
+|--	THQG
+|--	HVNCLC
+|--	NSTV
 ```
 
 ## Maquette quảng cáo
