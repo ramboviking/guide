@@ -14,9 +14,12 @@ Hồ sơ yêu cầu gia hạn GCN NHHH trong nước bao gồm:
 [Hướng dẫn điền đơn gia hạn GCN NHHH](./renewal-application.md)
 
 ### Quy trình xử lý hồ sơ
-1. Nộp phí gia hạn, xem hướng dẫn tính phí [tại đây](./renewal-application.html#_4-phi-le-phi).
-2. Nộp hồ sơ trực tiếp hoặc qua bưu điện đến Cục (hoặc văn phòng đại diện của Cục tại Tp. Hồ Chí Minh).
-3. Xử lý đơn (theo quy định 1 tháng, nhưng thực tế khoảng 6 tháng).
+1. Lập [kế hoạch gia hạn](https://docs.google.com/spreadsheets/d/1PcbiYAAvpJ4W6iJXMY0637xRes7us5Iy2RfsqpQAXBs/edit#gid=0) mỗi 6 tháng 1 lần.
+2. [Option] Trường hợp thông qua đại diện: Lấy báo giá của công ty đã ký hợp đồng nguyên tắc (nếu không có hợp đồng thì lấy tối thiểu 2 báo giá).
+3. Soạn hồ sơ, đính kèm báo giá khi trình duyệt.
+4. Nộp phí gia hạn, xem hướng dẫn tính phí [tại đây](./renewal-application.html#_4-phi-le-phi).
+5. Nộp hồ sơ trực tiếp hoặc qua bưu điện đến Cục (hoặc văn phòng đại diện của Cục tại Tp. Hồ Chí Minh).
+6. Xử lý đơn (theo quy định 1 tháng, nhưng thực tế khoảng 6 tháng).
 * Nếu không có thiếu sót -> Cục SHTT ra quyết định gia hạn, ghi nhận vào văn bằng, đăng bạ và công bố trên Công báo SHTT, gửi trả bản chính cho doanh nghiệp.
 * Nếu có thiết sót -> Cục SHTT ra thông báo điều chỉnh/bổ sung hoặc từ chối gia hạn.
 

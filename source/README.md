@@ -7,6 +7,7 @@
 4. Quảng cáo,
 5. Sở hữu trí tuệ.
 
+
 ## Get start
 Để sử dụng *Guideline* chỉ cần truy cập vào đường dẫn  
 ``` html

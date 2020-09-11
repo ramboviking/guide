@@ -9,9 +9,9 @@ Tham khảo [Hướng dẫn đặt tên sản phẩm](./naming/create.md)
 * Đăng bạ
 
 ## Phân nhóm hàng hóa theo Nixon 
-- Nhóm 3 Mỹ phẩm,
+- Nhóm 3: Mỹ phẩm,
 - Nhóm 5: dược phẩm; thực phẩm chức năng; thuốc đông y; thuốc y học cổ truyền,
-- Nhóm 35 kinh doanh.
+- Nhóm 35: kinh doanh.
 
 Các hoạt động liên quan sở hữu trí tuệ thường được thực hiện thông qua một đối tác có chức năng đại diện sở hữu trí tuệ. Xem danh sách các [ĐỐI TÁC](./partner.md).
 
@@ -32,9 +32,16 @@ Hồ sơ đăng ký thuốc yêu cầu nộp 02 bản sao Giấy chứng nhận 
 ### Bảo hộ nhãn hiệu
 Đối với các trường hợp xâm phạm quyền, hoặc cạnh tranh không lành mạnh cần liên hệ với công ty luật để họ tư vấn từng trường hợp cụ thể.
 
+## FAQ
+Nhãn hiệu có được bảo hộ màu sắc, chọn font và nhiều câu hỏi khác xem [tại đây](./ask.md)
+
+
 Xem thêm:
 * [Tra cứu & đánh giá khả năng bảo hộ](./lookups.md)
+* [Đăng ký nhãn hiệu hàng hóa](./registration.md)
 * [Gia hạn nhãn hiệu hàng hóa](./renewal.md)
 * [Cấp lại](./reissue.md)
 * [Quyền tác giả](./copyright.md)
 * [Hệ thống Madrid](./madrid.md)
+
+
