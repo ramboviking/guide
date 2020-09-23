@@ -32,3 +32,4 @@ Trường hợp này khá khó để xác định và tùy thuộc nhiều vào 
 * Trường hợp "BOTACAP" vs "VITAPCAP" khả năng bảo hộ 55%.
 * Trường hợp "HOPLUS" vs "HOFINI PLUS" khả năng bảo hộ 60%.
 * Trường hợp "ASTEMIX" vs "HOASTEX" không có âm nào giống nhau (theo thứ tự) :point_right: khả năng bảo hộ 99%.
+* Trường hợp "DULANA" vs "DULINA" khả năng bảo hộ 50%.
