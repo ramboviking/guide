@@ -15,3 +15,4 @@ Trong đó:
 | One2Fly | Nguyên trang | 216 x 291 |
 | Jetstar | Nguyên trang | 216 x 291 |
 
+Xem thêm [Yêu cầu nội dung khi thiết kế](../content-requirements.md)

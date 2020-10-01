@@ -9,3 +9,5 @@ Hồ sơ đăng ký bao gồm:
 5. Giấy đủ điều kiện kinh doanh dược
 
 Phí xác nhận nội dung thông tin thuốc: 1.600.000 đồng/hồ sơ
+
+Xem thêm [Yêu cầu nội dung khi thiết kế](./content-requirements.md).

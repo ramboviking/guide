@@ -23,7 +23,7 @@ Nếu sản phẩm chưa có tờ giấy phép lưu hành thì có thể thay th
 Phí xác nhận nội dung quảng cáo thuốc: 1.600.00 đồng/hồ sơ.
 
 ## Quy trình
-1. Sau khi thiết kế xong thì trình ký Tổng [Đơn đề nghị xác nhận nội dung quảng cáo thuốc](http://csdl.thutuchanhchinh.vn/TW/Lists/ThanhPhanHoSo/Attachments/233730/ND%2054_Mau%2001_Phuluc%20VI.docx) (Đơn này chỉ lưu nội bộ).
+1. Sau khi thiết kế xong thì trình ký Tổng [Đơn đề nghị xác nhận nội dung quảng cáo thuốc](http://csdl.thutuchanhchinh.vn/TW/Lists/ThanhPhanHoSo/Attachments/233730/ND%2054_Mau%2001_Phuluc%20VI.docx) (Đơn này chỉ lưu nội bộ). Xem thêm [Yêu cầu nội dung khi thiết kế](./content-requirements.md#quang-cao-thuoc).
 2. Nộp hồ sơ tại website [Dịch vụ công trực tuyến](https://dav.gov.vn/dich-vu-cong-c5.html) của CQLD.
 3. Thanh toán phí xác nhận nội dung quảng cáo (hình thức chuyển khoản vào tài khoản VPBank theo thông tin trên Giấy báo thu).
 4. Lấy biên lai sau khi thanh toán (phối hợp với CN Hà Nội - mang theo Giấy giới thiệu, Ủy nhiệm chi).
