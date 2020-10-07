@@ -30,8 +30,9 @@
 	*Cao khô lá Thường xuân* || *Extractum Folium Hederae helicis siccus*  
 	*Cao đặc Đinh lăng* || *Extractum Polysciacis fruticosae spissum*  
 	*Cao đặc lá Bạch quả* || *Extractum Folii Ginkgo siccus*  
-
 :::
+
+Ghi chú: tên khoa học viết theo quy ước Quốc tế. Tên tiếng Việt chưa có quy chuẩn Quốc gia nên các quy ước ở trên mới chỉ ở cấp độ cơ sở để giúp thống nhất cách viết và thể hiện tính chuyên nghiệp của công ty.
 
 ## Tên thuốc
 Tên thuốc của OPC được viết theo các quy tắc sau:

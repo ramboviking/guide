@@ -8,7 +8,7 @@ module.exports = {
 			{ text: 'Resource',
 			  items: [
 				  { text: 'Quy định', items: [
-					  { text: 'Proccess', link: '/proccess/'},
+					  { text: 'Quality', link: '/quality/'},
 					  { text: 'Procedure', link: 'https://docs.google.com/spreadsheets/d/1t4DR1owReaFl8sYtmrnh8jtu6RhjFXucAmK9_CoQ_r8/'},
 				  	  { text: 'Rule', link: 'https://opcpharma.com' }
 				  ] },
@@ -26,12 +26,12 @@ module.exports = {
 		],
 		sidebarDepth: 2,
 		sidebar: {
-			'/proccess/': [
+			'/quality/': [
 				{
-					title: 'Proccess',
+					title: 'Quality management',
 					children: [
-						['/proccess/', 'Introduction'],
-						['/proccess/develop.md', 'Develop']
+						['/quality/', 'Introduction'],
+						['/quality/develop.md', 'Develop']
 					]
 				}
 			],
