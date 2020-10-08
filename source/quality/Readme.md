@@ -35,7 +35,9 @@ Quản trị rủi ro cơ hội. Nguyên tắc tiếp cận dựa trên rủi ro
 [Hướng dẫn nhận diện rủi ro](./risk-identification.md)
 
 # Evaluate
-Đo lường, đánh giá.
+Đo lường, đánh giá dựa trên bộ OKR và KPI của các hoạt động chính của phòng marketing.
+
+[Bộ chỉ số kết quả chủ chốt](./key-result.md)
 
 # Improve
 Cải tiến
