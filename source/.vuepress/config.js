@@ -31,7 +31,8 @@ module.exports = {
 					title: 'Quality management',
 					children: [
 						['/quality/', 'Introduction'],
-						['/quality/develop.md', 'Develop']
+						['/quality/develop.md', 'Develop'],
+						['/quality/marketing.md', 'Marketing process']
 					]
 				}
 			],

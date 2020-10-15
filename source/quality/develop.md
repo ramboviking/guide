@@ -6,7 +6,7 @@ Phát triển sản phẩm mới là một quá trình có sự tham gia của n
 ## Input, Output
 Quá trình phát triển sản phẩm mới là quá trình liên tục nên không có đầu vào. Đầu ra là sản phẩm tung ra thị trường.
 
-## Proccess
+## Process
 Quá trình phát triển sản phẩm mới gồm 7 bước bắt buộc thực hiện theo trình tự từ 1 -> 7. Trong mỗi bước sẽ có nhiều công việc, có thể thực hiện đồng thời hoặc tuần tự.
 ### 1.Ý tưởng
 Căn cứ vào các sản phẩm đang lưu hành của công ty và máy móc thiết bị hiện có, nhóm sàng lọc sẽ xác định nhóm bệnh lý, nhóm dược lý, và dạng bào chế của sản phẩm mục tiêu cần phát triển.
