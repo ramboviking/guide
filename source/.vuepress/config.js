@@ -114,7 +114,15 @@ module.exports = {
 					['/trade/loyalty.md', 'Loyalty']
 				]
 			},
-			['/trademark/', 'Trademark'],
+			{
+				title: 'Intellectual Property',
+				path: '/ip/',
+				children: [
+					['/ip/trademark.md', 'Trademark'],
+					['/ip/patent.md', 'Patent'],
+					['/ip/copyright/author.md', 'Copyright']
+				]
+			},
 			{
 				title: 'Other',
 				path: '/administration/',
