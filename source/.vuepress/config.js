@@ -118,6 +118,7 @@ module.exports = {
 				title: 'Intellectual Property',
 				path: '/ip/',
 				children: [
+					['/ip/trade-name.md', 'Trade name'],
 					['/ip/trademark.md', 'Trademark'],
 					['/ip/patent.md', 'Patent'],
 					['/ip/copyright/author.md', 'Copyright']

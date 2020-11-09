@@ -27,6 +27,8 @@ Tương tự như trên, nhưng chúng ta sẽ xem liệu nhãn hiệu tra cứu
 Search: HoDo*, *HoDo
 Search: DoCu*, *DoCu
 Search: Ho*Cu
+Searh: *Ho*Cu, Ho*Cu*, *Ho*Cu*
+Search: *Ho*Do*Cu*
 ```
 Theo quy định hai nhãn hiệu chỉ khác nhau một âm thì khả năng bảo hộ thấp. Do đó, chúng ta sẽ tách nhãn hiệu cần tra cứu ra và tra cứu tuần tự hai âm để xem liệu có đối chứng nào trùng 2 âm hay không.
 Chúng ta sẽ tìm lần lượt "HoDo\*", "\*HoDo", "DoCu\*", "\*DoCu", "Ho\*Cu"...

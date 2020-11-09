@@ -16,3 +16,10 @@ Tên thương mại có khả năng phân biệt nếu đáp ứng điều kiệ
 3. Đồng thời không trùng hoặc tương tự đến mức gây nhầm lẫn với nhãn hiệu của người khác hoặc với chỉ dẫn địa lý đã được bảo hộ trước ngày tên thương mại đó được sử dụng.
 
 Xem thêm [xâm phạm tên thương mại.](./illegal/trade-name.md)
+
+## Quyền của chủ sở hữu tên thương mại
+Chủ sở hữu tên thương mại có quyền:
+- Sử dụng tên mại vào mục đích kinh doanh.
+- Thể hiện tên thương mại đó trên các giấy tờ giao dịch, hàng hóa, bao bì sản phẩm, quảng cáo.
+- Chuyển giao tên thương mại cho người khác (với điều kiện phải chuyển giao toàn bộ cơ sở kinh doanh và hoạt động kinh doanh gắn liền với tên thương mại).
+- Yêu cầu các cơ quan quản lý nhà nước có thẩm quyền xử lý các hành vi vi phạm tên thương mại.

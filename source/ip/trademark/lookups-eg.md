@@ -14,6 +14,7 @@
 "bonic" vs "bonickhami"
 "EVACARE" vs "PREVACARE"
 "OPOLAMIN" vs "SOPOLAMIN"
+"LIVERMAX" vs "GOLIVERMAXX"
 ```
 Trường hợp nhãn hiệu cần đăng ký là một từ/ một phần trong một từ của đối chứng thì khả năng cao sẽ không được bảo hộ.
 ### Trùng âm nhưng viết khác nhau
