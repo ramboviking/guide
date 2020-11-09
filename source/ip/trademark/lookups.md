@@ -34,6 +34,8 @@ Chúng ta sẽ tìm lần lượt "HoDo\*", "\*HoDo", "DoCu\*", "\*DoCu", "Ho\*C
 ## Đánh giá khả năng bảo hộ
 Mặc dù việc tra cứu có thể thực hiện một cách đơn giản và kết quả thu được khá rõ ràng. Tuy nhiên, do dữ liệu công bố của thư viện số sở hữu trí tuệ [IPLIB](http://iplib.noip.gov.vn/WebUI/WSearch.php) chưa đầy đủ, và thực tế nhận định có thể rất khác nhau tùy người và tùy hoàn cảnh cụ thể. Do đó, việc đánh giá khả năng bảo hộ của một nhãn hiệu thực tế là một việc rất khó khăn. Vì các lý do này mà việc đánh giá chỉ có thể thực hiện bởi các công ty luật hoặc người của Cục SHTT.
 
+[Tham khảo đánh giá tương tự gây nhầm lẫn.](./similar.md)
+
 ::: tip Căn cứ pháp lý
 Căn cứ pháp lý cho việc đánh giá là điều 74.2e và điều 90.2 của luật SHTT.
 
