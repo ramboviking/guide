@@ -19,7 +19,7 @@ Thông thường, nhãn hiệu đăng ký được so sánh với các nhãn hi�
 Mặc dù, các nhãn được trình bày khác nhau, nhưng phát âm của nhãn hiệu dự định đăng ký vẫn có phát âm tương tự gây nhầm lẫn với các đối chứng.
 
 ### Cấu trúc
-![Cùng cấu trúc](http://vietthink.vn/FileUpload/Images/ip_1.png)
+![Cùng cấu trúc](../../assets/img/table/cau_truc.png)
 
 Mặc dù được thể hiện cách điệu nhưng Nhãn hiệu dự định đăng ký vẫn bị coi là tương tự gây nhầm lẫn với Nhãn hiệu đối chứng do cấu trúc các chữ cái tạo nên  02 nhãn hiệu đều giống nhau , cụ thể 2 nhãn hiệu đều bao gồm các chữ cái T-O-H, có dấu chấm ở giữa “T” và “OH” và do đó, đều được phát âm thành 2 âm tiết /Ti/- /oʊ/.
 
@@ -36,7 +36,7 @@ Mặc dù được thể hiện cách điệu nhưng Nhãn hiệu dự định �
 Dù được trình bày bằng ngôn ngữ khác nhau nhưng 2 nhãn hiệu bị coi là tương tự do có cùng ý nghĩa, nhãn hiệu này chỉ là sự dịch nghĩa của nhãn hiệu khác. Một điều cần lưu ý, theo quy định hiện hành về sở hữu trí tuệ tại Việt Nam, tiếng Anh, Pháp, Nga và Hán được coi là những ngôn ngữ thông dụng, vì vậy mọi sự chuyển nghĩa/dịch nghĩa nhãn hiệu từ tiếng Anh, Pháp, Nga và Hán sang tiếng Việt hoặc ngược lại đều có thể bị đánh giá là tương tự với nhau.
 
 ### Tổng thể
-![Ấn tượng tổng thể](http://vietthink.vn/FileUpload/Images/ip_4.png)
+![Ấn tượng tổng thể](../../assets/img/table/tong_the.png)
 
 Do Nhãn hiệu dự định đăng ký chứa hình ảnh chim bồ câu giống hệt với phần hình chim bồ câu của Nhãn hiệu đối chứng, Nhãn hiệu dự định đăng ký bị coi là tương tự gây nhầm lẫn do chúng tạo ra ấn tượng tổng thể tương tự nhau hoặc gây nhầm lẫn cho người tiêu dùng về nguồn gốc xuất xứ sản phẩm/dịch vụ mang nhãn hiệu nếu sản phẩm/dịch vụ mang Nhãn hiệu dự định đăng ký tương tự với sản phẩm/dịch vụ mang Nhãn hiệu đối chứng.
 
