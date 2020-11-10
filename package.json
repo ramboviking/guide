@@ -10,6 +10,6 @@
   "author": "Viking",
   "license": "ISC",
   "dependencies": {
-    "@vuepress/core": "^1.6.0"
+    "@vuepress/core": "^1.7.1"
   }
 }
