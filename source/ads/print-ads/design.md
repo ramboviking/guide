@@ -13,28 +13,10 @@ Mặc dụ có thể sử dụng bất kỳ phần mềm thiết kế nào, như
 Tùy theo yêu cầu cụ thể của từng publisher mà chừa lề sao cho phù hợp. Nhìn chung, đa số các tạp chí, báo đều đưa thông số kích thước tràn viền (margin = 0). Padding nên ở mức 2,5 rem hoặc 1,25%.
 
 ## Require
-Căn cứ theo Nghị định 54/2018/NĐ-CP, nội dung quảng cáo thuốc bắt buộc gồm những thông tin sau:
-1. Tên thuốc
-2. Thành phần hoạt chất chính (không yêu cầu bắt buộc ghi tá dược)
-3. Chỉ định
-4. Cách dùng
-5. Liều dùng
-6. Chống chỉ định, những khuyến cáo cho đối tượng đặc biệt
-7. Thận trọng
-8. Tác dụng phụ và phản ứng có hại
-9. Tên, địa chỉ công ty
-10. Lời dặn "Đọc kỹ hướng dẫn sử dụng trước khi dùng"
-11. Nội dung "Số Giấy xác nhận nội dung quảng cáo thuốc của Bộ Y tế: .../XNQC..., ngày...tháng...năm..." ở cuối trang đầu.
-12. Nếu quảng cáo được thiết kế nhiều trang thì phải có câu "Tài liệu này có ... trang, thông tin chi tiết sản phẩm xem ở trang ..."
-
-Căn cứ theo Nghị định 15/2015/NĐ-CP, nội dung quảng cáo thực phẩm chức năng khuyến cáo bao gồm những thông tin sau:
-1. Tên TPCN
-2. Thành phần
-3. Công dụng/ Đối tượng sử dụng
-4. Cách dùng
-5. Liều dùng
-6. Tên, địa chỉ công ty
-7. Khuyến cáo "Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh" <Badge text="bắt buộc" type="error" />
-
+Xem thêm [Yêu cầu nội dung khi thiết kế](../content-requirements.md#quang-cao-thuoc)
 ## Rule
 1. Không được sử dụng từ "Hotline" hoặc "Điện thoại tư vấn" trong nội dung quảng cáo. Có thể dùng cụm "Điện thoại liên hệ".
+2. Cụm "Đọc kỹ hướng dẫn sử dụng trước khi dùng" phải thể hiện font color nổi bật và font size lớn hơn bình thường.
+3. Cụm "Logo OPC Pharma" nằm ở vị trí góc trái dưới của mặt số 1.
+4. Cụm "GMP-WHO" nằm ở vị trí phải trên của trang thông tin sản phẩm.
+5. Tất cả các trang đều phải có tên sản phẩm.

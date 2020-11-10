@@ -39,7 +39,7 @@ Theo dõi tình trạng hồ sơ định kỳ mỗi tuần tại website [Dịch
 * Đối với quảng cáo ngoài trời: cần ghi rõ tỷ lệ của maquette so với thực tế.
 * Đối với quảng cáo màn hình chuyên quảng cáo, trang thông tin điện tử, website: liệt kê thứ tự xuất hiện của các trang, chuyển động của các phần tử trên trang -> gọi chung là Kịch bản xuất hiện.
 
-## Thao tác trực tuyến
+## Thao tác trực tuyến đăng ký hồ sơ
 ### Tạo mới hồ sơ
 1. Truy cập vào trang [Dịch vụ công trực tuyến](https://dav.gov.vn/dich-vu-cong-c5.html) -> Chọn mục "Tiếp nhận thông tin thuốc và xác nhận nội dung quảng cáo thuốc" -> Đăng nhập
 
@@ -137,6 +137,31 @@ Sau khi đã nhận biên lai thì tiến hành tải lên Ủy nhiệm chi và 
 
 ### Theo dõi tiến trình
 Định kỳ hàng tuần truy cập vào website [Dịch vụ công trực tuyến](https://dav.gov.vn/dich-vu-cong-c5.html) để xem cập nhật trạng thái của hồ sơ. Nếu Cục Quản lý Dược có công văn phản hồi thì tiến hành giải trình, bổ sung theo yêu cầu.
+
+## Thao tác trực tuyến sửa đổi/ bổ sung
+### Cập nhật hồ sơ
+Đối với hồ sơ đã có công văn yêu cầu sửa đổi/ bổ sung, tại danh sách hồ sơ chọn nút `Edit` để vào màn hình cập nhật hồ sơ.
+
+![Advertising update](../assets/img/screenshot/ads-update.png)
+
+Nhập nội dung vào tương ứng:
+- Nội dung cần SĐBS: nhập lại yêu cầu của Cục.
+- Nội dung doanh nghiệp SĐBS: nhập lại nội dung công văn giải trình.
+- Đính kèm công văn: tải lên file công văn giải trình có ký duyệt của TGĐ.
+- Maquette: tải lên maquette nếu có thay đổi nội dung mẫu quảng cáo tại mục "Tài liệu khác". Chú ý, maquette phải là 1 file riêng biệt và không được ghép file với các nội dung khác.
+- Kịch bản: tải lên kịch bản nếu thay đổi nội dung kịch bản. Chú ý kịch bản phải là một file riêng biệt.
+- Tài liệu khác: tải lên tài liệu khác phục vụ cho giải trình. Nếu có nhiều tài liệu thì có thể ghép lại cùng 1 file. Tuy nhiên, phải đặt tên file sao cho người nhận dễ hình dung nội dung file gồm những gì (vd: quyết định gia hạn + chứng nhận thương hiệu quốc gia + bảo hộ thương hiệu).
+Cuối cùng, nhấn nút `Save` để lưu lại các cập nhật và thoát ra ngoài.
+
+## Ký số
+Sau khi cập nhật hồ sơ, quay trở  lại màn hình danh sách hồ sơ quảng cáo sẽ thấy nút `Ký số`, tiến hành ký số như [hướng dẫn ở phần trên.](./medicine-application.md#ky-so)
+
+## Gửi thẩm định lại
+Sau khi ký số thì tiến hành xem xét lại cẩn thận nội dung hồ sơ ở phần "Sửa đổi/ Bổ sung" *dặc biệt là các tài liệu đính kèm*.
+Nếu các nội dung đã chính xác thì tiến hành bấm nút `Gửi thẩm định lại` ở góc trái trên.
+Hệ thống sẽ hỏi xác nhận lại "Bạn có chắc muốn nộp hồ sơ này hay không?" -> chọn OK để gửi thẩm định lại.
+
+Trước đây, một hồ sơ đăng ký quảng cáo có thể được yêu cầu sửa đổi/ bổ sung nhiều lần. Nhưng nay, mỗi hồ sơ chỉ được yêu sửa đổi/ bổ sung một lần duy nhất. Do đó, nên thường xuyên kiểm tra tiến độ thẩm định hồ sơ. Nếu sau khi đã gửi lại hồ sơ mà vẫn chưa hợp lệ thì tiến hành gửi lại bộ hồ sơ khác.
 
 Xem thêm:
 - [Một số vấn đề thường gặp](./issue.md)
