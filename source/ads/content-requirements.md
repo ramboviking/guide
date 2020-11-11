@@ -2,7 +2,7 @@
 Các yêu cầu về luật định khi thiết kế nội dung quảng cáo.
 
 ## Thông tin thuốc
-Căn cứ `khỏan 1 điều 112` Nghị định 54/2017/NĐ-CP và `điểm a khoản 5 Điều 76 của Luật Dược 2016` nội dung thông tin thuốc dành cho cán bộ y tế trường hợp phát hành tài liệu gồm những mục sau:
+Căn cứ `khoản 1 điều 112` Nghị định 54/2017/NĐ-CP và `điểm a khoản 5 Điều 76 của Luật Dược 2016` nội dung thông tin thuốc dành cho cán bộ y tế trường hợp phát hành tài liệu gồm những mục sau:
 * :white_large_square: Tên thuốc
 * :white_large_square: Thành phần
 * :white_large_square: Nồng độ/ Hàm lượng
@@ -21,6 +21,14 @@ Trong đó, *Sử dụng thuốc cho phụ nữ có thai và cho con bú* là b�
 
 Nếu mục *Cảnh báo và thận trọng* và *Tương tác - tương kỵ* có nội dung thì bắt buộc phải thêm vào nội dung thông tin thuốc.
 
+::: tip
+Thành phần thuốc chỉ bắt buộc ghi tên hoạt chất/ dược liệu mà không bắt buộc ghi nồng độ/ hàm lượng. 
+Đối với tên dược liệu, ghi tên thông dụng bằng tiếng Việt, nếu không có tên tiếng Việt thì mới cần ghi tên Latin.
+Đồng thời không bắt buộc phải liệt kê tá dược.
+
+Quy tắc này áp dụng đồng thời cho phần *Thông tin thuốc* và *Quảng cáo thuốc*.
+:::
+
 ## Hội thảo giới thiệu thuốc
 Trường hợp thông tin thuốc dưới hình thức tổ chức hội thảo giới thiệu thuốc thì ngoài các mục như trên, cần bổ sung các mục:
 * :white_large_square: Họ tên báo cáo viên
@@ -29,7 +37,7 @@ Trường hợp thông tin thuốc dưới hình thức tổ chức hội thảo
 ## Quảng cáo thuốc
 Căn cứ `khoản 2 điều 125` Nghị định 54/2017/NĐ-CP, nội dung quảng cáo thuốc bao gồm các mục bắt buộc như sau:
 * :white_large_square: Tên thuốc <Badge text="Media" type="tip"/> <Badge text="OOH" type="tip"/>
-* :white_large_square: Hoạt chất <Badge text="Media" type="tip"/> <Badge text="OOH" type="tip"/>
+* :white_large_square: Thành phần <Badge text="Media" type="tip"/> <Badge text="OOH" type="tip"/>
 * :white_large_square: Chỉ định <Badge text="Media" type="tip"/>
 * :white_large_square: Liều dùng - Cách dùng
 * :white_large_square: Chống chỉ định, những khuyến cáo cho đối tượng đặc biệt (phụ nữ có thai, cho con bú, trẻ em, người cao tuổi, người mắc bệnh mạn tính) <Badge text="Media" type="tip"/>
@@ -37,9 +45,9 @@ Căn cứ `khoản 2 điều 125` Nghị định 54/2017/NĐ-CP, nội dung qu�
 * :white_large_square: Tác dụng phụ và phản ứng có hại
 * :white_large_square: Tên, địa chỉ của cơ sở sản xuất thuốc <Badge text="Media" type="tip"/> <Badge text="OOH" type="tip"/>
 * :white_large_square: Lời dặn "Đọc kỹ hướng dẫn sử dụng thuốc trước khi dùng" <Badge text="Media" type="tip"/> <Badge text="OOH" type="tip"/>
-* Cuối trang đầu nội dung phải ghi rõ "Số giấy xác nhận nội dung quảng cáo thuốc của Bộ Y tế: .../XNQC, ngày ... tháng ... năm ..." <Badge text="OOH" type="tip"/>
-* "Tài liệu này có ... trang, thông tin chi tiết sản phẩm xem ở trang..." <Badge text="khi có nhiều trang" type="warn"/>
-* Nếu quảng cáo có sử dụng các thông tin y khoa thì phải ghi rõ nguồn tài liệu tham khảo. Chỉ sử dụng các thông tin từ các nguồn có bình duyệt (nghiên cứu công bố trên tạp chí khoa học, sách); không sử dụng white paper (bài báo cáo hội nghị, bài tự công bố).
+* :white_large_square: Cuối trang đầu nội dung phải ghi rõ "Số giấy xác nhận nội dung quảng cáo thuốc của Bộ Y tế: .../XNQC, ngày ... tháng ... năm ..." <Badge text="OOH" type="tip"/>
+* :white_large_square: "Tài liệu này có ... trang, thông tin chi tiết sản phẩm xem ở trang..." <Badge text="khi có nhiều trang" type="warn"/>
+* :white_large_square: Nếu quảng cáo có sử dụng các thông tin y khoa thì phải ghi rõ nguồn tài liệu tham khảo. Chỉ sử dụng các thông tin từ các nguồn có bình duyệt (nghiên cứu công bố trên tạp chí khoa học, sách); không sử dụng white paper (bài báo cáo hội nghị, bài tự công bố).
 
 ::: tip PrintAds
 Đối với quảng cáo in ấn (tờ rơi, brochure, báo chí...) thì nội dung phải có đầy đủ các mục liệt kê ở trên.
