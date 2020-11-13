@@ -97,7 +97,7 @@ module.exports = {
 			},
 			
 			{
-				title: 'Quảng cáo',
+				title: 'Advertising',
 				children: [
 					['/ads/', 'Introduction'],
 					['/ads/tvc/', 'TVC'],
@@ -121,7 +121,8 @@ module.exports = {
 					['/ip/trade-name.md', 'Trade name'],
 					['/ip/trademark.md', 'Trademark'],
 					['/ip/patent.md', 'Patent'],
-					['/ip/copyright/author.md', 'Copyright']
+					['/ip/copyright/author.md', 'Copyright'],
+					['/ip/illegal.md', 'Violate']
 				]
 			},
 			{

@@ -15,22 +15,26 @@ Tùy theo yêu cầu cụ thể của từng publisher mà chừa lề sao cho p
 ## Layout
 Có nhiều loại bố cục như:
 - Tờ rơi: thường là hai trang, trong đó trang 2 chứa nội dung thông tin thuốc. Hoặc có thể là 4 trang, thông tin thuốc nằm ở trang 3 và 4.
+
+![Tờ rơi](https://via.placeholder.com/120x210?text=Trang+1)
+ ![Tờ rơi](https://via.placeholder.com/120x210?text=Trang+2)
+ 
 - Khổ ngang: chỉ có 1 trang theo tỷ lệ 16:9 hoặc 4:3. Nội dung thông tin thuốc ở khu vực phía dưới. Thường áp dụng cho banner, báo.
 
-![Khổ ngang](https://via.placeholder.com/300x180)
+![Khổ ngang](https://via.placeholder.com/300x180?text=Kho+ngang)
 
 - Khổ dọc: cũng chỉ có 1 trang, chiều ngang ngắn hơn chiều cao. Nội dung thông tin thuốc vẫn nằm ở phía dưới. Thường áp dụng cho tạp chí.
 
-![Khổ dọc](https://via.placeholder.com/120x160)
+![Khổ dọc](https://via.placeholder.com/120x160?text=Kho+doc)
 
 - Khổ siêu rộng: loại bố cục này thường sử dụng cho quảng cáo ngoài trời (phương tiên giao thông, nhà chờ). Tỷ lệ thường là 25:9 hoặc rộng hơn nữa. Chỉ có 1 trang nhưng toàn bộ thông tin thuốc nằm ở khu vực bên phải giống như 2 trang.
 
-![Khổ siêu rộng](https://via.placeholder.com/360x150)
+![Khổ siêu rộng](https://via.placeholder.com/360x150?text=Kho+sieu+rong)
 
 - Khổ siêu cao: thường áp dụng cho standee, phướng. Kích thước thông thường là 200 x 50 cm. Phần thông tin thuốc nằm gọn ở phía bên dưới.
 Trên đây là 5 loại khổ cơ bản. Trong thực tế có thể sẽ gặp nhiều biến thể của 5 loại cơ bản ở trên, đặc biệt là banner kỹ thuật số sẽ có rất nhiều kích thước khác nhau.
 
-![Khổ siêu cao](https://via.placeholder.com/100x400)
+![Khổ siêu cao](https://via.placeholder.com/120x360?text=Kho+sieu+cao)
 
 ## Require
 Xem thêm [Yêu cầu nội dung khi thiết kế](../content-requirements.md#quang-cao-thuoc)

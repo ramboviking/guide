@@ -7,4 +7,5 @@ Quy trình sáng tạo TVC gồm những bước chính sau:
 4. [Casting](./casting.md)
 5. [Production](./production.md)
 6. [Licence](./licence)
+7. [Variant](./variant.md)
 7. [Broadcast](./bradcast.md)

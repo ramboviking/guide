@@ -38,6 +38,10 @@ Theo dõi tình trạng hồ sơ định kỳ mỗi tuần tại website [Dịch
 ## Hướng dẫn
 * Đối với quảng cáo ngoài trời: cần ghi rõ tỷ lệ của maquette so với thực tế.
 * Đối với quảng cáo màn hình chuyên quảng cáo, trang thông tin điện tử, website: liệt kê thứ tự xuất hiện của các trang, chuyển động của các phần tử trên trang -> gọi chung là Kịch bản xuất hiện.
+* [Phương tiện quảng cáo:](./media.md) thông thường sẽ có 3 nhóm phương tiện sau:
+	- Quảng cáo trên báo nói, báo hình.
+	- Quảng cáo thông qua hội thảo, hội nghị, tổ chức sự kiện.
+	- Phương tiện khác: tờ rơi, brochure, báo điện tử, trang thông tin điện tử, thiết bị điện tử, màn hình chuyên quảng cáo, website doanh nghiệp, website của đơn vị làm dịch vụ quảng cáo cho công chúng, báo, tạp chí.
 
 ## Thao tác trực tuyến đăng ký hồ sơ
 ### Tạo mới hồ sơ
