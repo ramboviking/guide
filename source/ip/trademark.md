@@ -39,6 +39,7 @@ Nhãn hiệu có được bảo hộ màu sắc, chọn font và nhiều câu h�
 Xem thêm:
 * [Tra cứu & đánh giá khả năng bảo hộ](./trademark/lookups.md)
 * [Đăng ký nhãn hiệu hàng hóa](./trademark/registration.md)
+* [Thẩm định đơn đăng ký](./trademark/expertise.md)
 * [Gia hạn nhãn hiệu hàng hóa](./trademark/renewal.md)
 * [Cấp lại](./trademark/reissue.md)
 * [Hệ thống Madrid](./trademark/madrid.md)

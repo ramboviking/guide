@@ -4,6 +4,7 @@
   "description": "Guideline for marketing department",
   "main": "index.js",
   "scripts": {
+    "dev": "vuepress dev source",
     "test": "echo \"Error: no test specified\" && exit 1",
     "source:build": "vuepress build source"
   },

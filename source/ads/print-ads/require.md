@@ -14,6 +14,7 @@ Trong đó:
 | --- | --- | --- |
 | One2Fly | Nguyên trang | 216 x 291 |
 | Jetstar | Nguyên trang | 216 x 291 |
+| Look | Nguyên trang | 216 x 286 |
 
 ## Trình bày
 * Font size không nhỏ hơn 12 (Times New Roman).

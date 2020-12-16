@@ -60,7 +60,7 @@ Chi phí marketing được định khoản trong 2 tài khoản sau:
 (bao gồm phụ cấp nhân viên, in ấn, vận chuyên dành riêng cho sự kiện đó)  
 * P31 Nghiên cứu, mở rộng thị trường  
 	- Thuê ngoài dịch vụ nghiên cứu thị trường  
-	- Mua số liệu thị trường  
+	- Mua số liệu thị trường (bao gồm bản tin ngoại thương)
 	- Phụ cấp nhân viên đi ngiên cứu, khảo sát thị trường  
 	- Đoàn công tác của lãnh đạo đi nghiên cứu thị trường mới  
 * P32 Thương hiệu  
@@ -84,7 +84,7 @@ Chi phí marketing được định khoản trong 2 tài khoản sau:
 	- Tài trợ hội nghị khoa học kỹ thuật, hội thảo khoa học  
 	- Tài trợ thể thao  
 	- Tài trợ văn nghệ  
-	- Tài trợ giáo dục  
+	- Tài trợ giáo dục (học bổng)  
 	- Tài trợ y tế  
 * P68 Phí, lệ phí hiệp hội
 	- Phí hội viên BSA  
