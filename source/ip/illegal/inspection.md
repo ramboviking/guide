@@ -42,11 +42,25 @@ Thời gian để cơ quan giám định đưa ra kết luận cuối cùng thô
 Khi thực hiện giám định nhãn hiệu, cơ quan giám định sẽ xem xét các yếu tố:
 1. Dấu hiệu vi phạm gắn trên hàng hóa/ bao bì hàng hóa/ phương tiện dịch vụ/ biển hiệu/ giấy tờ giao dịch/ phương tiện quảng cáo/ phương tiện kinh doanh khác.
 2. Dấu hiệu vi phạm trùng hoặc tương tự đến mức gây nhầm lẫn về (1) hàng hóa/ dịch vụ và (2) dấu hiệu thương mại.
-	a. Trùng nhau cả 2 yếu tố
-	b. Một yếu tố trùng nhau, một yếu tố "tương tự"
-	c. Cả hai yếu tố đều "tương tự" nhưng có căn cứ/ cơ sở để khẳng định rằng người tiêu dùng có khả năng bị nhầm lẫn.
+	1. Trùng nhau cả 2 yếu tố.
+	2. Một yếu tố trùng nhau, một yếu tố "tương tự".
+	3. Cả hai yếu tố đều "tương tự" nhưng có căn cứ/ cơ sở để khẳng định rằng người tiêu dùng có khả năng bị nhầm lẫn.
 3. Việc sử dụng Dấu hiệu là hành vi không được phép
 Cơ quan giám định xem xét một số trường hợp đặc biệt như *Chuyển giao lixăng*, *sử dụng trung thực tên người, dấu hiệu mô tả chủng loại, số lượng, chất lượng, công dụng, giá trị, nguồn gốc địa lý và các đặc tính khác của hàng hóa, dịch vụ*.
+
+::: tip
+Nếu đối tượng bảo hộ và đối tượng giám định thuộc một trong các loại hàng hóa/ dịch vụ sau đây thì có thể xem là tương tự:
+- Thuốc (thuốc hóa dược và thuốc dược liệu/ đông y),
+- Thực phẩm chức năng,
+- Mỹ phẩm,
+- Kinh doanh/ phân phối sản phẩm thuộc lĩnh vực y tế (thuốc, TPCN, thiết bị y tế...),
+- Kinh doanh dịch vụ liên quan đến ngành dược (kiểm nghiệm, bảo quản, thử lâm sàng, đăng ký thuốc, và các hoạt động logistic khác)
+
+Thuốc và TPCN thuộc nhóm 05 (theo phân loại NICE), còn mỹ phẩm thuộc nhóm 03 nhưng về bản chất hai nhóm này rất tương đồng với nhau.
+- Các loại dầu, tinh dầu có thể là thuốc hoặc mỹ phẩm nhưng bản chất hoàn toàn giống nhau.
+- Sản phẩm trị bỏng cũng có thể là thuốc hoặc mỹ phẩm.
+- Sản phẩm trị mụn (chẳng hạn chứa tinh chất Nghệ) có thể là thuốc hoặc mỹ phẩm.
+:::
 
 ## Kết quả
 Kết quả giám định có thể là 1 trong 3 trường hợp:
