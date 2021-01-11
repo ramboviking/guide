@@ -48,7 +48,8 @@ Trong ngành dược, một số tiếp đâu ngữ, tiếp vị ngữ thường
 | - | -azole nhóm kháng nấm |
 | - | - |
 | - | - |
-	
+[Xem thêm các trường hợp khác](./common.md)
+
 # Quy trình
 Để đặt tên cho một sản phẩm mới, cần sự tham gia của phòng QTM và NCPT.
 
