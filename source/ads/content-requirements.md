@@ -74,6 +74,11 @@ Các nội dung dưới đây bị cấm khi thông tin/ quảng cáo thuốc th
 2. Nội dung mang tính suy diễn, hoặc vượt quá tác dụng, chỉ định, hiệu quả của thuốc.
 3. Chỉ định của từng thành phần/ hoạt chất mà không phải là chỉ định của thuốc.
 4. Các từ, cụm từ "điều trị tận gốc", "tiệt trừ", "chuyên trị", "hàng đầu", "đầu bảng", "đầu tay", "lựa chọn", "chất lượng cao", "đảm bảo 100%", "an toàn", "dứt", "cắt đứt", "chặn đứng", "giảm ngay", "giảm liền", "giảm tức thì", "khỏi ngay", "khỏi hẳn", "yên tâm", "không lo", "khỏi lo", "khuyên dùng", "điện thoại từ vấn"...
+
+## Ý kiến Cục QLD
+1. Không được sử dụng logo của tổ chức Y tế Thế giới.
+2. Không được quảng cáo các chỉ định dành cho thuốc kê đơn ([Thông tư 07/2017/TT-BYT](http://vbpl.vn/boyte/Pages/vbpq-van-ban-goc.aspx?ItemID=123248))
+
 ## Nội quy công ty
 1. Không ghi nguồn gốc xuất xứ của dược liệu.
 2. Không đưa hình ảnh các giải thưởng dành cho nhãn hàng.
