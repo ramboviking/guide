@@ -67,6 +67,21 @@ Nội dung quảng cáo thuốc chỉ được cung cấp các thông tin về t
 * Thông tin hoạt chất/ dược liệu.
 :::
 
+## Quảng cáo TPCN
+* :white_large_square: Tên TPCN
+* :white_large_square: Tên và địa chỉ công ty.
+* :white_large_square: Công dụng chính
+* :white_large_square: Tác dụng phụ (nếu có)
+* :white_large_square: Khuyến cáo "Sản phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh"
+
+Các nội dung khác có thể thực hiện tương tự quy định về quảng cáo thuốc.
+
+Không được quảng cáo TPCN gây hiểu nhầm là thuốc và có tác dụng điều trị bệnh.
+
+::: tip
+Nên bổ sung từ "hỗ trợ" trước các công dụng của TPCN.
+:::
+
 # Prohibited content
 ## Quy định pháp luật
 Các nội dung dưới đây bị cấm khi thông tin/ quảng cáo thuốc theo `điều 126 Nghị định 54/2017/NĐ-CP`.
