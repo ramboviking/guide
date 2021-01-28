@@ -67,12 +67,21 @@ Trong đó, "số giấy" là số nội bộ của ma-ket (nếu có).
 * Bản thông tin chi tiết về sản phẩm đã được cơ quan có thẩm quyền xác nhận.
 * Mẫu nhãn sản phẩm đã được cơ quan y tế có thẩm quyền chấp nhận.
 * Tài liệu tham khảo, tài liệu khoa học chứng minh cho thông tin quảng cáo.
-Sau khi đã tải lên hết các tài liệu thì hồ sơ đăng ký đã được lưu lại và chuyển sang tab "Hồ sơ chưa đầy đủ".
 
-8. Tiến hành thanh toán
+8. Trình ký đơn đề nghị
+Sau khi đã tải lên hết các tài liệu thì in đơn đăng ký và trình ký Tổng Giám Đốc (nút *In đơn đăng ký* ở góc trên bên phải).
+Sau khi Tổng Giám Đốc ký xong thì nhấn nút **Tải lên đơn đăng ký** ở phía dưới để tải lên đơn. Nếu không thì có thể chọn **Hoàn tất hồ sơ** để lưu lại hồ sơ và bổ sung đơn đăng ký sau.
+
+Chuyển sang tab "Hồ sơ chưa đầy đủ" sẽ thấy các đơn đang chờ nộp. Nhấn vào icon hình cái kẹp giấy để tải lên đơn đăng ký hoặc click vào hồ sơ và chọn *Sửa hồ sơ* để cập nhật nội dung hồ sơ.
+
+![Upload sign document](../assets/img/screenshot/supple-sign.png)
+
+Sau khi đã tải lên tất cả hồ sơ thì tiến hành thanh toán.
+
+9. Tiến hành thanh toán
 Mặc định của hệ thống là thanh toán bằng hình thức trực tuyến. Tuy nhiên, công ty chưa áp dụng hình thức này nên vẫn tiến hành thực hiện thanh toán bằng hình thức chuyển khoản như thông thường. Sau khi chuyển khoản xong thì tải lên giấy *Ủy nhiệm chi".
 Trước khi thanh toán thì hồ sơ hiển thị ở tab "Hồ sơ chưa đầy đủ", sau khi thanh toán thì hiển thị ở "Hồ sơ chờ tiếp nhận".
 
-9. Theo dõi định kỳ.
+10. Theo dõi định kỳ.
 Sau khi hồ sơ đã được tiếp nhận thì định kỳ hằng tuần truy cập vào website [Xác nhận quảng cáo](http://xacnhanquangcao.vfa.gov.vn/) để cập nhật tiến độ xử lý của Cục An Toàn Thực Phẩm.
 
