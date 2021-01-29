@@ -79,8 +79,17 @@ Chuyển sang tab "Hồ sơ chưa đầy đủ" sẽ thấy các đơn đang ch�
 Sau khi đã tải lên tất cả hồ sơ thì tiến hành thanh toán.
 
 9. Tiến hành thanh toán
-Mặc định của hệ thống là thanh toán bằng hình thức trực tuyến. Tuy nhiên, công ty chưa áp dụng hình thức này nên vẫn tiến hành thực hiện thanh toán bằng hình thức chuyển khoản như thông thường. Sau khi chuyển khoản xong thì tải lên giấy *Ủy nhiệm chi".
-Trước khi thanh toán thì hồ sơ hiển thị ở tab "Hồ sơ chưa đầy đủ", sau khi thanh toán thì hiển thị ở "Hồ sơ chờ tiếp nhận".
+Mặc định của hệ thống là thanh toán bằng hình thức trực tuyến. Tuy nhiên, công ty chưa áp dụng hình thức này nên vẫn tiến hành thực hiện thanh toán bằng hình thức chuyển khoản như thông thường. Thông tin tài khoản của Cục An Toàn Thực Phẩm xem ở chân trang [http://xacnhanquangcao.vfa.gov.vn/](http://xacnhanquangcao.vfa.gov.vn/).
+
+Click vào nút "Tải hóa đơn thanh toán" để upload ủy nhiệm chi.
+
+![Payment button](../assets/img/screenshot/supple-pay.png)
+
+Điền số ủy nhiệm chi và tải file lên.
+
+![Payment button](../assets/img/screenshot/supple-uploadUNC.png)
+
+Trước khi thanh toán thì hồ sơ hiển thị ở tab "Hồ sơ chưa đầy đủ", sau khi thanh toán và tải lên ủy nhiệm chi thì hồ sơ hiển thị ở "Hồ sơ chờ tiếp nhận".
 
 10. Theo dõi định kỳ.
 Sau khi hồ sơ đã được tiếp nhận thì định kỳ hằng tuần truy cập vào website [Xác nhận quảng cáo](http://xacnhanquangcao.vfa.gov.vn/) để cập nhật tiến độ xử lý của Cục An Toàn Thực Phẩm.
