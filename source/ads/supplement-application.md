@@ -29,68 +29,78 @@ Hồ sơ đăng ký bao gồm:
 
 ## Thao tác trực tuyến
 Để thực hiện đăng ký xấc nhận nội dung quảng cáo thực phẩm chức năng, Cục An Toàn Thực phẩm đã xây dựng hệ thống đăng ký trực tuyến (mức độ 4). Các bước thao tác như sau:
-1. Truy cập website [Xác nhận quảng cáo](http://xacnhanquangcao.vfa.gov.vn/) -> đăng nhập. 
+1. Truy cập website [Nghị định 15](https://nghidinh15.vfa.gov.vn/) -> đăng nhập. 
 
-![Home login](../assets/img/screenshot/supple-login.png)
+Chọn menu **QL quảng cáo**/ Đăng ký hồ sơ.
 
-2. Truy cập vào "Dịch vụ công trực tuyến" -> Tại tab "Dịch vụ công" (mặc định) click vào nút **Đăng ký hồ sơ quảng cáo sản phẩm thực phẩm**.
+![Home application](../assets/img/screenshot/supple-application.png)
 
-![Home service](../assets/img/screenshot/supple-home.png)
+2. Thêm hồ sơ mới
 
-Hệ thống sẽ hiển thị "xác nhận cập nhật thông tin doanh nghiệp hay không" -> chọn không.
+Tại màn hình **Quản lý quảng cáo** ở trên, click vào nút **Thêm mới hồ sơ** để bắt đầu nhập dữ liệu cho một hồ sơ mới.
+
+![Home service](../assets/img/screenshot/supple-addnew.png)
+
 
 3. Nhập thông tin sản phẩm
 
-![Product info](../assets/img/screenshot/supple-product-info.png)
+Trong màn hình thêm mới hồ sơ sẽ có 3 tab như hình bên dưới. Bắt đầu nhập thông tin sản phẩm và công ty ở tab **Thông tin cơ sở đăng ký**.
 
-Nhập tên sản phẩm theo nguyên văn của Giấy xác nhận công bố. Sau đó nhấn nút "Thêm sản phẩm"
+![Product info](../assets/img/screenshot/supple-info.png)
 
-4. Chọn phương tiện quảng cáo
+Các thông tin "Tên doanh nghiệp", "Địa chỉ", "Điện thoại" hệ thống tự lấy từ thông tin tài khoản nên không cần thao tác gì khác.
+Chọn phương tiện quảng cáo.
 
-![Product media](../assets/img/screenshot/supple-media.png)
+![Advertising media](../assets/img/screenshot/supple-media.png)
 
-Nếu quảng cáo trên phương tiện nằm ngoài bảng liệt kê thì chọn mục 	"Loại khác" và nhập thông tin vào.
+Nhập thông tin sản phẩm mong muốn quảng cáo. Nếu số công bố sản phẩm đã tồn tại trên hệ thống thì mục "Đã có giấy XNCB trên hệ thống" tự động chuyển thành dấu :heavy_check_mark: từ dấu :x:. Sau đó, các trường "Tên sản phẩm", "Ngày tiếp nhận bản đăng ký sản phẩm" cũng tự động hiển thị dữ liệu đã lưu trên hệ thống.
 
-5. Click chọn "Đồng ý" và nhấn nút "Chuyển sang bước đính kèm giấy tờ".
+![Product](../assets/img/screenshot/supple-product.png)
 
-6. Tải lên file ma-ket và Giấy chứng nhận đăng ký kinh doanh của doanh nghiệp
+4. Tải lên file ma-ket
 
-![Product media](../assets/img/screenshot/supple-maket.png)
+Chuyển sang tab "Maket/ Kịch bản quảng cáo" để tải lên maquette. Tùy theo phương tiện quảng cáo đã chọn (Truyền hình/ phát thanh/ in ấn) mà hệ thống chỉ cho phép tải lên những định dạng nhất định.
 
-Trong đó, "số giấy" là số nội bộ của ma-ket (nếu có).
+![Maquette](../assets/img/screenshot/supple-maquette.png)
 
-7. Tải lên các tài liệu đính kèm
+Nếu cần tải nhiều file thì sau khi đã tải lên 1 file chọn *Thêm* để tải file tiếp theo. Nếu cần thay đổi/ chỉnh sửa file thì chỉ cần tải lên file mới để thay thế file cũ là được.
+
+5. Tải lên các tài liệu đính kèm
+
+Chuyển sang tab "Tài liệu đính kèm" để tải lên các file tài liệu đính kèm.
+- Giấy công bố sản phẩm: bao gồm cả bản tự công bố của doanh nghiệp (có chứa thông tin chi tiết sản phẩm) và mẫu nhãn.
+- Giấy chứng nhận đăng ký doanh nghiệp.
+- Các giấy tờ khác (nếu cần).
 
 ![Attach document](../assets/img/screenshot/supple-attach.png)
 
-* Giấy xác nhận công bố sản phẩm.
-* Bản thông tin chi tiết về sản phẩm đã được cơ quan có thẩm quyền xác nhận.
-* Mẫu nhãn sản phẩm đã được cơ quan y tế có thẩm quyền chấp nhận.
-* Tài liệu tham khảo, tài liệu khoa học chứng minh cho thông tin quảng cáo.
+Sau khi đã nhập đầy đủ hết các dữ liệu cần thiết thì nhấn nút "Lưu hồ sơ". Sau đó, hệ thống sẽ tự động sinh mã hồ sơ, nếu chọn "Lưu nháp" thì hệ thống chưa sinh mã hồ sơ.
 
-8. Trình ký đơn đề nghị
-Sau khi đã tải lên hết các tài liệu thì in đơn đăng ký và trình ký Tổng Giám Đốc (nút *In đơn đăng ký* ở góc trên bên phải).
-Sau khi Tổng Giám Đốc ký xong thì nhấn nút **Tải lên đơn đăng ký** ở phía dưới để tải lên đơn. Nếu không thì có thể chọn **Hoàn tất hồ sơ** để lưu lại hồ sơ và bổ sung đơn đăng ký sau.
+6. Ký số
 
-Chuyển sang tab "Hồ sơ chưa đầy đủ" sẽ thấy các đơn đang chờ nộp. Nhấn vào icon hình cái kẹp giấy để tải lên đơn đăng ký hoặc click vào hồ sơ và chọn *Sửa hồ sơ* để cập nhật nội dung hồ sơ.
+Tại màn hình quản lý hồ sơ, chọn lệnh **Ký điện tử** từ nút **Thao tác**. Để thực hiện ký số thì trước đó cần cắm token vào máy tính và hệ thống đã cài đặt chữ ký số. Nếu chưa cài đặt thì liên hệ IT để cài chữ ký số.
 
 ![Upload sign document](../assets/img/screenshot/supple-sign.png)
 
-Sau khi đã tải lên tất cả hồ sơ thì tiến hành thanh toán.
+::: warning
+Nộp hồ sơ trực tuyến không yêu cầu Tổng Giám Đốc ký trực tiếp vào tờ đơn đăng ký (chỉ cần ký số). Tuy nhiên, nếu cần chữ ký của Tổng Giám Đốc để thực hiện thủ tục thanh toán thì vẫn soạn văn bản và ký như bình thường.
+:::
 
-9. Tiến hành thanh toán
-Mặc định của hệ thống là thanh toán bằng hình thức trực tuyến. Tuy nhiên, công ty chưa áp dụng hình thức này nên vẫn tiến hành thực hiện thanh toán bằng hình thức chuyển khoản như thông thường. Thông tin tài khoản của Cục An Toàn Thực Phẩm xem ở chân trang [http://xacnhanquangcao.vfa.gov.vn/](http://xacnhanquangcao.vfa.gov.vn/).
+7. Thanh toán
 
-Click vào nút "Tải hóa đơn thanh toán" để upload ủy nhiệm chi.
+Để thực hiện thanh toán, chọn lệnh **Nộp hồ sơ** từ nút **Thao tác** (!!!).
 
 ![Payment button](../assets/img/screenshot/supple-pay.png)
 
-Điền số ủy nhiệm chi và tải file lên.
+Nếu chọn hình thức thanh toán trực tuyến thì nhấn nút **Thanh toán KEYPAY** nhưng hiện tại công ty chưa áp dụng hình thức này. Chọn **Chuyển khoản** để thực hiện thanh toán bằng hình thức chuyển khoản.
+- Số tài khoản: 1200208026339
+- Ngân hàng: Agribank chi nhánh Sở giao dịch
+- Nội dung: Cục không có quy định bắt buộc về nội dung chuyển khoản, gợi ý nội dung như sau "Đăng ký hồ sơ quảng cáo TPBVSK NORMO OPC (Mã hồ sơ 21.02.01.7484.DKQC)"
 
-![Payment button](../assets/img/screenshot/supple-uploadUNC.png)
+![Banking tranfer](../assets/img/screenshot/supple-banking.png)
 
-Trước khi thanh toán thì hồ sơ hiển thị ở tab "Hồ sơ chưa đầy đủ", sau khi thanh toán và tải lên ủy nhiệm chi thì hồ sơ hiển thị ở "Hồ sơ chờ tiếp nhận".
+Điền thông tin và tải lên ủy nhiệm chi như hình trên.
 
-10. Theo dõi định kỳ.
-Sau khi hồ sơ đã được tiếp nhận thì định kỳ hằng tuần truy cập vào website [Xác nhận quảng cáo](http://xacnhanquangcao.vfa.gov.vn/) để cập nhật tiến độ xử lý của Cục An Toàn Thực Phẩm.
+8. Theo dõi định kỳ.
+Sau khi hồ sơ đã được tiếp nhận thì định kỳ hằng tuần truy cập vào website [Nghị định 15](https://nghidinh15.vfa.gov.vn/) để cập nhật tiến độ xử lý của Cục An Toàn Thực Phẩm.
 
