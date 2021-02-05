@@ -100,7 +100,19 @@ Nếu chọn hình thức thanh toán trực tuyến thì nhấn nút **Thanh to
 ![Banking tranfer](../assets/img/screenshot/supple-banking.png)
 
 Điền thông tin và tải lên ủy nhiệm chi như hình trên.
+Sau khi nhấn nút **lưu** thì hồ sơ tự động sẽ chuyển sang tab **Hồ sơ đã gửi thanh toán**. Chọn lệnh **Xem thanh toán** ở nút **Thao tác** của danh sách hồ sơ.
+
+![View payment](../assets/img/screenshot/supple-list-viewpay.png)
+
+Lúc này, trạng thái của hồ sơ là "Giao dịch đang chờ kết quả".
+
+![Pay status](../assets/img/screenshot/supple-pay-status.png)
+
+::: tip
+Thời gian để chờ xác nhận thanh toán có thể vài ngày hoặc 1 tuần.
+:::
 
 8. Theo dõi định kỳ.
+
 Sau khi hồ sơ đã được tiếp nhận thì định kỳ hằng tuần truy cập vào website [Nghị định 15](https://nghidinh15.vfa.gov.vn/) để cập nhật tiến độ xử lý của Cục An Toàn Thực Phẩm.
 
