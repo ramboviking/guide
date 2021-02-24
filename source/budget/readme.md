@@ -14,6 +14,10 @@ Chi phí marketing được định khoản trong 2 tài khoản sau:
 - Số liệu trong các báo cáo phải là số trước thuế.
 - Đối với các khoản chi tiền mặt, bắt buộc TGĐ phải duyệt khoản chi trước khi soạn phiếu đề nghị thanh toán. Đối với đề nghị chuyển khoản thì không yêu cầu bắt buộc.
 
+::: warning
+Việc nhập kho và xuất ngay cho phòng QTM để ghi nhận chi phí theo thời gian mong muốn không được cơ quan thuế chấp nhận. Do đó, gimmick khi mua vào phải nhập kho rồi xuất ra cho khách hàng, đối tác khi có nhu cầu sử dụng. Thời điểm ghi nhận chi phí theo thời gian xuất kho.
+:::
+
 ## Phân nhóm
 ### Danh sách nhóm
 * [P16 Văn phòng phẩm](./stationery.md)

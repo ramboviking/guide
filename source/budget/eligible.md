@@ -47,6 +47,10 @@ Tài trợ giáo dục là các khoản tài trợ cho trường học. Có th�
 ### Cho, biếu tặng
 Các trường hợp cho biếu tặng thì phải có tên người nhận và có ký nhận.
 [Tham khảo hướng dẫn cho biếu tặng](#)
+- Ban hành quyết định cho biếu tặng.
+- Lập danh sách đối tượng nhận.
+- Xuất kho.
+- Chứng từ giao nhận (ký nhận).
 
 ## Không hợp lý, hợp lệ
 Để thuận tiện trong quản lý chi phí, phòng QTM vẫn ghi nhận những chi phí tài trợ không hoàn thiện hồ sơ theo hướng dẫn ở trên là chi phí marketing (vì marketing không cần quá chú trọng về thuế).
