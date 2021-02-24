@@ -34,3 +34,5 @@ Trường hợp này khá khó để xác định và tùy thuộc nhiều vào 
 * Trường hợp "HOPLUS" vs "HOFINI PLUS" khả năng bảo hộ 60%.
 * Trường hợp "ASTEMIX" vs "HOASTEX" không có âm nào giống nhau (theo thứ tự) :point_right: khả năng bảo hộ 99%.
 * Trường hợp "DULANA" vs "DULINA" khả năng bảo hộ 50%.
+* Trường hợp "HOTACAP" vs "HOTASAP" khả năng bảo hộ 1%.
+* Trường hợp "LUCKIDS" vs "LUXKIDS" khả năng bảo hộ 1%.
