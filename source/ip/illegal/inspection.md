@@ -67,3 +67,11 @@ Kết quả giám định có thể là 1 trong 3 trường hợp:
 1. Không vi phạm,
 2. Cạnh tranh không lành mạnh,
 3. Xâm phạm quyền.
+
+::: warning
+Kết quả giám định theo yêu cầu (không phải là trưng dụng của cơ quan thực thi) chỉ là một tài liệu có tính chất dùng để tham khảo cho các cơ quan thực thi. Các cơ quan thực thi có thể căn cứ vào kết quả giám định, nhận định của riêng họ, kinh nghiệm xử lý các vụ tương tự trước đây để đưa ra kết luận có giá trị pháp lý như quyết định xử phạt vi phạm hành chính hay quyết định tịch thu tang vật...
+:::
+
+Bên cạnh giám định, các cơ quan thực thi có thể áp dụng hình thức tham vấn ý kiến chuyên môn của Cục Sở Hữu Trí Tuệ để làm căn cứ đưa ra quyết định hành chính.
+
+Các cơ quan thực thi gửi công văn tham vấn ý kiến chuyên môn thì Cục SHTT bắt buộc phải có nghĩa vụ trả lời, còn doanh nghiệp (hoặc đại diện sở hữu công nghiệp) xin ý kiến thì Cục không bắt buộc phải trả lời doanh nghiệp.

@@ -81,4 +81,4 @@ Quy trình xử lý vi phạm gồm 3 bước như sau:
 1. [Giám định](./illegal/inspection.md) tại Viện Khoa học Sở hữu trí tuệ.
 2. Thực hiện biện pháp xử lý (khuyến cáo, hành chính, dân sự, hình sự).
 3. Đánh giá hoạt động khắc phục hậu quả.
-4. Tiếp tục thưucj hiện biện pháp xử lý ở mức độ cao hơn nếu giải quyết chưa thỏa đáng.
+4. Tiếp tục thực hiện biện pháp xử lý ở mức độ cao hơn nếu giải quyết chưa thỏa đáng.
