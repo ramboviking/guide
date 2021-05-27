@@ -45,3 +45,7 @@ Xem thêm [Yêu cầu nội dung khi thiết kế](../content-requirements.md#qu
 4. Cụm "GMP-WHO" nằm ở vị trí phải trên của trang thông tin sản phẩm.
 5. Tất cả các trang đều phải có tên sản phẩm.
 6. Tên, địa chỉ công ty: thống nhất ghi tên và địa chỉ của trụ sở chính của công ty tại thời điểm đăng ký quảng cáo. Không nhất thiết phải ghi địa chỉ nhà máy.
+7. Không dùng hình ảnh có bất kỳ bộ phận nào của cơ thể người trưởng thành từ xương ức đến đùi giữa mà không được mặc quần áo. Mặc đồ lót, nội y hoặc các trang phục xuyên thấu hay sử dụng các đồ vật không phải quần áo (khăn, túi, lá cây) để che cơ thể cũng không được chấp nhận.
+Căn cứ theo quy định trên thì không sử dụng hình ảnh sau:
+- Mặc áo crop top để lộ phần eo.
+- Kéo quần xuống để lộ xương chậu.
