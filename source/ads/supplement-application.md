@@ -116,3 +116,22 @@ Thời gian để chờ xác nhận thanh toán có thể vài ngày hoặc 1 tu
 
 Sau khi hồ sơ đã được tiếp nhận thì định kỳ hằng tuần truy cập vào website [Nghị định 15](https://nghidinh15.vfa.gov.vn/) để cập nhật tiến độ xử lý của Cục An Toàn Thực Phẩm.
 
+9. Bổ sung hồ sơ.
+
+Khi hồ sơ chuyển sang tab "Hồ sơ cần bổ sung" có nghĩa là Cục ATTP đã xem xét hồ sơ và gửi công văn yêu cầu chỉnh sửa, bổ sung hồ sơ.
+
+Chọn lệnh "Sửa hồ sơ" để vào giao diện chỉnh sửa hồ sơ.
+
+![Pay status](../assets/img/screenshot/supple-update.png)
+
+Thực hiện cập nhật thông tin hồ sơ đăng ký theo yêu cầu (bước 3, 4, 5). Chọn lưu hồ sơ sau khi cập nhật thông tin, cũng như tải lên các file cần thiết.
+
+::: tip
+Đối với các file đính kèm, tải lại file khác đè lên file cũ để cập nhật (nếu có).
+:::
+
+::: warning
+Mỗi hồ sơ đăng ký quảng cáo chỉ được cập nhật một lần nên cần kiểm tra kỹ trước khi nhấn nút nộp hồ sơ.
+:::
+
+Thực hiện ký số (tương tự bước 6) và gửi hồ sơ để thẩm định lại. Trường hợp này không cần phải nộp lại phí thẩm định vì phí này tính theo bộ hồ sơ nên trường hợp số hồ sơ đăng ký quảng cáo không đổi thì không cần nộp lại phí thẩm định.
