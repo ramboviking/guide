@@ -19,33 +19,44 @@ Sau đó, sẽ chọn công thức từ các nguồn uy tín để thực hiện
 * Công trình nghiên cứu.
 
 ### 2.Nghiên cứu
-Trigger: quyết định nghiên cứu của Hội đồng Kinh tế Kỹ thuật.
+#### 2.1 Nghiên cứu tiền khả thi
+Trigger: đề xuất công thức
 | Tt | Hoạt động | Trách nhiệm |
 | --- | --- | --- |
 | 1 | Thống kê giá kê khai | NV. NCTT |
 | 2 | Thống kê giá trị trúng thầu | NV. NCTT |
-| 3 | Nghiên cứu tổng quan thị trường | NV. NCTT |
-|4 | Phân tích cạnh tranh | NV. NCTT |
-| 5| Mua sản phẩm mẫu | NV. NCTT |
+| 3 | Nghiên cứu đối thủ cạnh tranh | NV. NCTT |
+| 4 | Nghiên cứu tổng quan thị trường | NV. NCTT |
+| 5 | Phân tích cạnh tranh | NV. NCTT |
+| 6 | Mua sản phẩm mẫu | NV. NCTT |
+#### 2.2 Nghiên cứu chiến lược
+Trigger: quyết định nghiên cứu của Hội đồng Kinh tế Kỹ thuật.
+Xây dựng chiến lược cho sản phẩm gồm:
+- SPT (phân khúc, định vị, khách hàng mục tiêu)
+- Kênh phân phối
+- Công dụng/ chỉ định chính
+- Tone màu/ hình ảnh nổi bật của sản phẩm
+- Key message
+- Sáng tạo tên thương hiệu
+- Thiết kế bao bì
+#### 2.3 Nghiên cứu bào chế
+Phòng NCPT tiến hành.
 
 ### 3.Đăng ký
 Trigger: nghiệm thu đề tài của Hội đồng Kinh tế Kỹ thuật
 | Tt | Hoạt động | Trách nhiệm |
 | --- | --- | --- |
-| 1 | Đặt tên sản phẩm  | NV. Thương hiệu |
-| 2 | Thiết kế bao bì  | NV. Thiết kế |
-| 3 | Khảo sát bao bì | NV. NCTT |
-| 4 | Đăng ký bảo hộ NHHH | NV. Thương hiệu |
-| 5 | Xây dựng tiêu chuẩn bao bì | NV. Thiết kế |
+| 1 | Đăng ký bảo hộ NHHH  | NV. Thương hiệu |
+| 2 | Xây dựng tiêu chuẩn bao bì | NV. Thiết kế |
+| 3 | Đăng ký sản phẩm | P. NCPT |
 
 ### 4.Hoạch định
-Trigger: quyết định cấp số đăng ký của Cục quản lý Dược
+Trigger: quyết định cấp số đăng ký của Cục quản lý Dược/ xác nhận công bố
 | Tt | Hoạt động | Trách nhiệm |
 | --- | --- | --- |
 | 1 | Kê khai giá thuốc | NV. Nghiệp vụ |
 | 2 | Quyết định giá bán | NV. Nghiệp vụ |
-| 3 | Ban hành chiến lược sản phẩm | NV. Nghiệp vụ |
-| 4 | Xây dựng kế hoạch marketing | NV. Nghiệp vụ |
+| 3 | Xây dựng kế hoạch marketing | NV. Nghiệp vụ |
 
 ### 5.Tư liệu
 Trigger: kế hoạch marketing

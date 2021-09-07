@@ -8,6 +8,7 @@ Nghiên cứu thị trường bao gồm các hoạt động sau đây:
 * [Phân tích số liệu kinh doanh](./analysis.md)
 * [Thống kê kết quả trúng thầu](./bidding.md)
 * [Thông kê giá kê khai](./declare.md)
+* [Thu thập thông tin đối thủ cạnh tranh](./competitor.md)
 
 Danh sách đối thủ cần theo dõi.
 Sử dụng Google Alert để nhận thông báo khi có bài viết mới trên web về các đối thủ này.
