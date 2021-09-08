@@ -52,7 +52,7 @@ Logo công ty lấy ở [file này](https://docs.google.com/document/d/1i3CIAB4D
 3. Liệt kê lợi thế cạnh tranh của sản phẩm.
 4. Lấy link gắn vào [Danh sách đối thủ COMPETITOR](https://docs.google.com/spreadsheets/d/1lMedbKd5JEgq5JNYBRlUP7NNr_4XEIwIPalf7HUqvdQ/edit?usp=sharing) và file Detail của sản phẩm.
 5. Chia sẻ file cho nhóm.
-
+"
 Để tìm kiếm thông tin đối thủ cạnh tranh thì có thể dựa vào các tài liệu khác của sản phẩm như:
 - [Thống kê kê khai giá](https://docs.google.com/spreadsheets/d/1DcL1PwOaiI2vvxY8j2QgV6jCnpWRg4SzEH8npmIP82s/edit?usp=sharing)
 - [Phân tích thầu](https://docs.google.com/spreadsheets/d/1UMyRgw_6M0_NqgHOjQhEHfR8lMctvYVZA9Ce7Tb2IjQ/edit?usp=sharing)
