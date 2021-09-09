@@ -31,10 +31,10 @@ Các thông tin cần thu thập của một đối thủ bao gồm:
 
 Bên cạnh đó là các thông tin nổi bật của sản phẩm:
 - Chiến lược sản phẩm
-- Kênh phân phối
-- Chương trình bán hàng
-- Hoạt động truyền thông
-- Thị phần, thị trường
+- Kênh phân phối (OTC/ETC, TMĐT, trực tiếp/ gián tiếp, vùng miền...)
+- Chương trình bán hàng (chiết khấu, quà tặng...)
+- Hoạt động truyền thông (slogan, tagline, campaign, channel, influencer...)
+- Thị phần, thị trường (nếu không có số liệu thì thay thế bằng đánh giá ABCD)
 
 ::: tip
 Logo công ty lấy ở [file này](https://docs.google.com/document/d/1i3CIAB4D_ZD3s6xThJ407UpnQe4fCVwssRsYuEjKnyU/edit?usp=sharing). Nếu công ty nào chưa có thì bổ sung thêm.
@@ -58,3 +58,9 @@ Logo công ty lấy ở [file này](https://docs.google.com/document/d/1i3CIAB4D
 - [Phân tích thầu](https://docs.google.com/spreadsheets/d/1UMyRgw_6M0_NqgHOjQhEHfR8lMctvYVZA9Ce7Tb2IjQ/edit?usp=sharing)
 - Phác đồ điều trị
 - Tìm tên bài thuốc/ thành phần chính/ công dụng chính trên công cụ tìm kiếm
+
+## Phân tích cạnh tranh
+Để phục vụ cho việc xây dựng chiến lược và kế hoạch marketing, tiến hành một số phân tích sau:
+- So sánh công thức (với đối thủ chính)
+- So sánh thông tin thuốc (dạng bào chế, quy cách, chỉ định, liều dùng...)
+- Phân tích SWOT

@@ -23,21 +23,23 @@ Sau đó, sẽ chọn công thức từ các nguồn uy tín để thực hiện
 Trigger: đề xuất công thức
 | Tt | Hoạt động | Trách nhiệm |
 | --- | --- | --- |
-| 1 | Thống kê giá kê khai | NV. NCTT |
-| 2 | Thống kê giá trị trúng thầu | NV. NCTT |
-| 3 | Nghiên cứu đối thủ cạnh tranh | NV. NCTT |
+| 1 | [Thống kê giá kê khai](../research/declare.md) | NV. NCTT |
+| 2 | [Thống kê giá trị trúng thầu](../research/biding.md) | NV. NCTT |
+| 3 | [Nghiên cứu đối thủ cạnh tranh](../research/competitor.md) | NV. NCTT |
 | 4 | Nghiên cứu tổng quan thị trường | NV. NCTT |
-| 5 | Phân tích cạnh tranh | NV. NCTT |
-| 6 | Mua sản phẩm mẫu | NV. NCTT |
+| 5 | Mua sản phẩm mẫu | NV. NCTT |
+
 #### 2.2 Nghiên cứu chiến lược
 Trigger: quyết định nghiên cứu của Hội đồng Kinh tế Kỹ thuật.
-Xây dựng chiến lược cho sản phẩm gồm:
+Phác thảo chiến lược cho sản phẩm gồm:
 - SPT (phân khúc, định vị, khách hàng mục tiêu)
 - Kênh phân phối
 - Công dụng/ chỉ định chính
+- Thông điệp chính/ slogan
+- Hoạt động trade, truyền thông chủ đạo
 - Tone màu/ hình ảnh nổi bật của sản phẩm
-- Key message
-- Sáng tạo tên thương hiệu
+- [Sáng tạo tên thương hiệu](../ip/naming/create.md)
+- [Tra cứu khả năng bảo hộ](../ip/trademark/lookups.md)
 - Thiết kế bao bì
 #### 2.3 Nghiên cứu bào chế
 Phòng NCPT tiến hành.
@@ -46,15 +48,15 @@ Phòng NCPT tiến hành.
 Trigger: nghiệm thu đề tài của Hội đồng Kinh tế Kỹ thuật
 | Tt | Hoạt động | Trách nhiệm |
 | --- | --- | --- |
-| 1 | Đăng ký bảo hộ NHHH  | NV. Thương hiệu |
+| 1 | [Đăng ký bảo hộ NHHH](https://1drv.ms/w/s!AiA8LkFkurxNoz4N5ey6f7digwP6?e=npaxTv)  | NV. Thương hiệu |
 | 2 | Xây dựng tiêu chuẩn bao bì | NV. Thiết kế |
-| 3 | Đăng ký sản phẩm | P. NCPT |
+| 3 | Đăng ký/ Công bố sản phẩm | P. NCPT |
 
 ### 4.Hoạch định
 Trigger: quyết định cấp số đăng ký của Cục quản lý Dược/ xác nhận công bố
 | Tt | Hoạt động | Trách nhiệm |
 | --- | --- | --- |
-| 1 | Kê khai giá thuốc | NV. Nghiệp vụ |
+| 1 | [Kê khai giá thuốc](https://1drv.ms/w/s!AiA8LkFkurxNqhi-LjLuZwoDeW1d?e=PlPn6z) | NV. Nghiệp vụ |
 | 2 | Quyết định giá bán | NV. Nghiệp vụ |
 | 3 | Xây dựng kế hoạch marketing | NV. Nghiệp vụ |
 
@@ -63,7 +65,7 @@ Trigger: kế hoạch marketing
 | Tt | Hoạt động | Trách nhiệm |
 | --- | --- | --- |
 | 1 | Thiết kế bộ nhận diện thương hiệu | NV. Thiết kế |
-| 2 | Đăng ký quảng cáo | NV. Quảng cáo |
+| 2 | [Đăng ký quảng cáo](../ads/#dang-ky) | NV. Quảng cáo |
 | 3 | Sản xuất tài liệu quảng cáo | NV. Quảng cáo |
 | 4 | Cập nhật catalogue | NV. Thiết kế |
 | 5 | Chụp hình sản phẩm thật | NV. Thiết kế |
