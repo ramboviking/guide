@@ -31,7 +31,7 @@ Trigger: đề xuất công thức
 
 #### 2.2 Nghiên cứu chiến lược
 Trigger: quyết định nghiên cứu của Hội đồng Kinh tế Kỹ thuật.
-Phác thảo chiến lược cho sản phẩm gồm:
+Phác thảo [chiến lược sản phẩm](https://docs.google.com/document/d/1FS7-bUEr-dXPNFdvoa1HBRnAx7swVR3fgyIiyT9GJrg/edit?usp=sharing) gồm:
 - SPT (phân khúc, định vị, khách hàng mục tiêu)
 - Kênh phân phối
 - Công dụng/ chỉ định chính
