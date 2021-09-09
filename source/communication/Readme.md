@@ -10,5 +10,6 @@ Truyền thông là hoạt động truyền đạt thông tin giữa công ty v�
 8. [Regulatory affair](./regulatory/)
 9. [Coporate Social Responsibility](./csr/)
 10. Seeding
+11. [Award](./award/)
 
 Ngoài ra, xem thêm [xử lý khủng hoảng.](./crisis/procedure.md)

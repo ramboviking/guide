@@ -89,6 +89,7 @@ module.exports = {
 						['/communication/publication/', 'Publication'],
 						['/communication/regulatory/', 'Regulatory affair'],
 						['/communication/csr/', 'Coporate Social Responsibility'],
+						['/communication/award/', 'Award']
 					]
 				},
 				{
