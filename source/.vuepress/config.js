@@ -120,7 +120,8 @@ module.exports = {
 					path: '/trade/',
 					children: [
 						['/trade/promotion.md', 'Promotion'],
-						['/trade/loyalty.md', 'Loyalty']
+						['/trade/loyalty.md', 'Loyalty'],
+						['/trade/sample.md', 'Sample']
 					]
 				},
 				{

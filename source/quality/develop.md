@@ -31,7 +31,8 @@ Trigger: đề xuất công thức
 
 #### 2.2 Nghiên cứu chiến lược
 Trigger: quyết định nghiên cứu của Hội đồng Kinh tế Kỹ thuật.
-Phác thảo [chiến lược sản phẩm](https://docs.google.com/document/d/1FS7-bUEr-dXPNFdvoa1HBRnAx7swVR3fgyIiyT9GJrg/edit?usp=sharing) gồm:
+
+Phác thảo [chiến lược sản phẩm](/strategy/plan.md) gồm:
 - SPT (phân khúc, định vị, khách hàng mục tiêu)
 - Kênh phân phối
 - Công dụng/ chỉ định chính
@@ -67,7 +68,7 @@ Trigger: kế hoạch marketing
 | 1 | Thiết kế bộ nhận diện thương hiệu | NV. Thiết kế |
 | 2 | [Đăng ký quảng cáo](../ads/#dang-ky) | NV. Quảng cáo |
 | 3 | Sản xuất tài liệu quảng cáo | NV. Quảng cáo |
-| 4 | Cập nhật catalogue | NV. Thiết kế |
+| 4 | Cập nhật catalogue, brochure | NV. Thiết kế |
 | 5 | Chụp hình sản phẩm thật | NV. Thiết kế |
 | 6 | Mua gimmick | NV. Nghiệp vụ |
 | 7 | Soạn tài liệu đào tạo | NV. Nghiệp vụ |

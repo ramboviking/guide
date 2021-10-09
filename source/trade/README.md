@@ -1,2 +1,3 @@
 # Trade marketing
-[Promotion](./promotion.md)
+- [Promotion](./promotion.md)
+- [Sample](./sample.md)
