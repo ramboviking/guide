@@ -20,7 +20,11 @@ Việc nhập kho và xuất ngay cho phòng QTM để ghi nhận chi phí theo 
 
 ## Phân nhóm
 ### Danh sách nhóm
+* P10 Bao bì
+* P12 Thiết bị, dụng cụ làm việc
+* P14 Đồng phục nhân viên
 * [P16 Văn phòng phẩm](./stationery.md)
+* P20 Thông tin liên lạc
 * P21 In ấn
 * P29 Hội chợ, triễn lãm
 * P27 Quảng cáo
@@ -35,17 +39,34 @@ Việc nhập kho và xuất ngay cho phòng QTM để ghi nhận chi phí theo 
 * P68 Phí, lệ phí hiệp hội
 * P84 Cho, biếu tặng
 * P86 Chi phí đối ngoại
+* P87 CP trưng bày, giới thiệu sản phẩm, mẫu
 * P89 Sở hữu công nghiệp
-* Chi tiết nhóm
+
+### Chi tiết nhóm
+* P10 Bao bì
+	- Bao bì đóng gói bán hàng online
+* P12 Thiết bị, dụng cụ làm việc
+	- Thiết bị quay phim, chụp hình
+	- Thiết bị lưu trữ
+	- Thiết bị phục vụ bán hàng online (điện thoại...)
+	- Các thiết bị phục vụ đóng hàng (máy hút chân không...)
+* P14 Đồng phục nhân viên
+	- Đồng phục TDV, giao nhận (chỉ bao gồm nhân viên trực tiếp bán hàng)
 * P16 Văn phòng phẩm
-* P21 In ấn  
+	- Văn phòng phẩm khoán (các loại VPP thường nhật)
+	- Văn phòng phẩm không khoán (các loại VPP phát sinh theo thời điểm hoặc sự vụ)
+* P20 Thông tin liên lạc
+	- Cước điện thoại bán hàng online
+* P21 Sách, báo, tài liệu, dịch thuật, photo, in ấn
 	- In ấn trang trí xe  
 	- In tờ rơi, brochure, backdrop, bandrone, phướn  
 	- In túi giấy, túi nilon  
 	- In lịch  
 	- In phiếu mua hàng  
 	- In sách, báo, tài liệu, dịch thuật, công chứng  
-	- Xuất bản cẩm nang  
+	- Xuất bản cẩm nang
+	- Đóng cuốn hồ sơ thầu
+	- In decal hộp demo
 * P27 Quảng cáo  
 	- Quảng cáo in ấn (sách, báo, tạp chí)  
 	- Quảng cáo TVC  
@@ -55,12 +76,19 @@ Việc nhập kho và xuất ngay cho phòng QTM để ghi nhận chi phí theo 
 	- Merchaindaising  
 	- Activation  
 	- Sản xuất tư liệu quảng cáo (làm phim, biên tập, thiết kế...)  
-(các bài viết PR cho thương hiệu và nhãn hiệu sẽ được xem như là quảng cáo)  
+	- Đăng ký quảng cáo
+(các bài viết PR cho thương hiệu và nhãn hiệu sẽ được xem như là quảng cáo)
+
+::: warning
+Chi phí tài trợ quảng bá giải thưởng cần thống nhất ghi vào khoản mục nào với kế toán.
+:::
+
 * P29 Hội chợ, triễn lãm  
 	- Hội chợ (HVNCLC...)  
 	- Triễn lãm (VietnamExpo, Medipharm, FoodExpo...)  
 	- Hội nghị khách hàng  
-	- Hội thảo do OPC tự tổ chức  
+	- Hội thảo chuyên đề do OPC tự tổ chức  
+	- Tham quan nhà máy
 (bao gồm phụ cấp nhân viên, in ấn, vận chuyên dành riêng cho sự kiện đó)  
 * P31 Nghiên cứu, mở rộng thị trường  
 	- Thuê ngoài dịch vụ nghiên cứu thị trường  
@@ -81,6 +109,7 @@ Việc nhập kho và xuất ngay cho phòng QTM để ghi nhận chi phí theo 
 	- Ngủ nghỉ đi công tác  
 	- Ăn uống đi công tác  
 * P45 Phụ cấp nhân viên
+	- Phụ cấp model chụp hình
 * P48 Đăng ký, thẩm định, kiểm nghiệm thuốc  
 	- Phí kê khai giá thuốc  
 	- Phí công bố quảng cáo  
@@ -92,11 +121,15 @@ Việc nhập kho và xuất ngay cho phòng QTM để ghi nhận chi phí theo 
 	- Tài trợ y tế  
 * P68 Phí, lệ phí hiệp hội
 	- Phí hội viên BSA  
-	- Phí 
+	- Phí hiệp hội doanh nghiệp
 * P84 Cho, biếu tặng  
 	- Tặng hàng hóa cho khách hàng không thu tiền
 * P86 Chi phí đối ngoại  
 	- Chi phí đối ngoại có bảng kê
+	- Chi phí tour cho khách ETC (nếu du lịch không kết hợp hội thảo)
+* P87 CP trưng bày, giới thiệu sản phẩm, mẫu
+	- Trưng bày tại điểm bán
+	- Mua hàng mẫu
 * P89 Sở hữu công nghiệp  
 	- Tra cứu  
 	- Đăng ký nhãn hiệu hàng hóa  
