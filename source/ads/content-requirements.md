@@ -99,3 +99,4 @@ Các nội dung dưới đây bị cấm khi thông tin/ quảng cáo thuốc th
 2. Không đưa hình ảnh các giải thưởng dành cho nhãn hàng.
 3. Không dùng cụm "OPC Pharma" mà chỉ được dùng tên viết tắt của công ty là "OPC".
 4. Không sử dụng cụm "Điện thoại từ vấn" mà chỉ được dùng cụm "Điện thoại liên hệ".
+5. Không sử dụng danh hiệu *Thương hiệu quốc gia* (Vietnam value) cho các sản phẩm nằm ngoài danh sách theo quyết định của BCT. Trước đây danh hiệu này cấp cho *thương hiệu* (tức OPC) nhưng nay chỉ cấp cho *nhãn hiệu* (tức sản phẩm).

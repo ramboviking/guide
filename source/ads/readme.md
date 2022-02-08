@@ -15,5 +15,7 @@ Phần này bao gồm các hướng dẫn sáng tạo, đăng ký, thực hiện
 
 [Lưu trữ hồ sơ](./storage.md)
 
+Ngoài ra, hoạt động quảng bá thuốc thông qua hội thảo thì đăng ký theo hướng dẫn ở phần [Hội thảo](../event/workshop.html#dang-ky)
+
 ## Thực hiện
 

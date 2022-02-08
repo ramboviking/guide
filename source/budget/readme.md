@@ -127,6 +127,11 @@ Chi phí tài trợ quảng bá giải thưởng cần thống nhất ghi vào k
 * P86 Chi phí đối ngoại  
 	- Chi phí đối ngoại có bảng kê
 	- Chi phí tour cho khách ETC (nếu du lịch không kết hợp hội thảo)
+
+::: tip
+Vì lý do nhạy cảm nên không ghi cụ thể người thụ hưởng trong Giấy đề nghị thanh toán và Phiếu chi. Có thể liệt kê danh sách trong một bảng kê riêng để dễ dàng tách ra khi kiểm tra.
+:::
+
 * P87 CP trưng bày, giới thiệu sản phẩm, mẫu
 	- Trưng bày tại điểm bán
 	- Mua hàng mẫu
