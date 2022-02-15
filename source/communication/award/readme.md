@@ -13,7 +13,7 @@ Trong các danh hiệu trên thì chỉ có Hàng Việt Nam chất lượng cao
 
 ## Quy định chung
 - Chỉ số tài chính lấy số liệu hợp nhất (nếu không có yêu cầu nào khác).
-- Chỉ số nguồn nhân lực lấy số liệu riêng.
+- Chỉ số nguồn nhân lực lấy số liệu riêng (bao gồm OPC, HD2 và OPC Bình Dương)
 ## Quy trình
 Sau khi nhận được thông báo/ thư mời từ BTC giải thưởng thì tiến hành 5 bước như sau:
 1. Đề xuất tham gia (không áp dụng bước này đối với giải thưởng trong danh sách trên)
