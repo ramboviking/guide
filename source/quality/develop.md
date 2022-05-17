@@ -87,7 +87,7 @@ Trigger: quyết định tung sản phẩm
 | 8 | Đào tạo TDV | NV. Nghiệp vụ |
 | 9 | Cài thầu | TDV |
 | 10 | Tổ chức sự kiện ra mắt sản phẩm mới | NV. Nghiệp vụ |
-| 11 | Công bố trên các phương tiện truyền thông | NV. Nghiệp vụ |
+| 11 | Công bố trên các phương tiện truyền thông (website, fanpage) | NV. Nghiệp vụ |
 | 12 | Group present cho bác sĩ, dược sĩ | NV. Nghiệp vụ |
 | 13 | Triển khai hoạt động marketing khác | NV. Nghiệp vụ |
 
