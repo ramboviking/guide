@@ -68,11 +68,11 @@ Trigger: kế hoạch marketing
 | 1 | Thiết kế bộ nhận diện thương hiệu | NV. Thiết kế |
 | 2 | [Đăng ký quảng cáo](../ads/#dang-ky) | NV. Quảng cáo |
 | 3 | Sản xuất tài liệu quảng cáo | NV. Quảng cáo |
-| 4 | Cập nhật catalogue, brochure | NV. Thiết kế |
-| 5 | Chụp hình sản phẩm thật | NV. Thiết kế |
+| 4 | Chụp hình sản phẩm thật | NV. Thiết kế |
+| 5 | Thiết kế brochure, Cập nhật catalogue | NV. Thiết kế |
 | 6 | Mua gimmick | NV. Nghiệp vụ |
 | 7 | Soạn tài liệu đào tạo | NV. Nghiệp vụ |
-| 8 | Soạn bài PR, social post | NV. Nghiệp vụ |
+| 8 | Soạn bài post giới thiệu sản phẩm mới (website), social post | NV. Nghiệp vụ |
 
 ### 6.Tung sản phẩm
 Trigger: quyết định tung sản phẩm
@@ -80,9 +80,10 @@ Trigger: quyết định tung sản phẩm
 | --- | --- | --- |
 | 1 | Mở mã Bravo | P. ĐPBH |
 | 2 | Chương trình khuyến mãi | NV. Nghiệp vụ |
-| 3 | Đăng ký khuyến mãi | NV. Nghiệp vụ |
-| 4 | Tỷ lệ chi phí sản xuất trong nước | NV. Nghiệp vụ |
-| 5 | Photo chứng từ nguyên vật liệu | P. TCKT |
+| 3 | [CN đăng ký sản lượng tiêu thụ](./launch/comsumption.md) | NV. Nghiệp vụ |
+| 4 | Đăng ký khuyến mãi | NV. Nghiệp vụ |
+| 5 | Tỷ lệ chi phí sản xuất trong nước | NV. Nghiệp vụ |
+| 6 | Photo chứng từ nguyên vật liệu | P. TCKT |
 | 7 | Phân phối hàng mẫu, brochure | NV. Nghiệp vụ |
 | 8 | Đào tạo TDV | NV. Nghiệp vụ |
 | 9 | Cài thầu | TDV |
