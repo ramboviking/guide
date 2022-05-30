@@ -28,3 +28,7 @@ Các đơn hàng do trình dược lập trên phần mềm quản lý bán hàn
 Đối với các đơn hàng trình dược đã nhận đơn nhưng chưa nhập vào hệ thống thì xem như là đơn hàng chưa ghi nhận. Trình dược thông báo hủy đơn hàng với khách hàng và yêu cầu khách hàng đặt lại với giá mới (có thể kèm ưu đãi).
 ### Đơn hàng riêng
 Trường hợp chi nhánh muốn áp dụng giá cũ vượt quy định của công ty cho 1 trường hợp khách hàng riêng biệt nào đó thì áp dụng quy trình đề xuất khuyến mãi riêng cho khách hàng đó.
+
+## Kinh nghiệm
+### Nhắc lại CTKM
+Để tránh nhầm lẫn cho chi nhánh khi triển khai giá mới, luôn luôn nhắc lại về việc chương trình KM hiện tại có tiếp tục áp dụng (sau khi tăng giá) hay không, hoặc chương trình nào thay thế cho chương trình nào.
