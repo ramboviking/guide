@@ -75,7 +75,8 @@ module.exports = {
 						['/research/bidding.md', 'Kết quả trúng thầu'],
 						['/research/declare.md', 'Giá kê khai'],
 						['/research/discuss.md', 'Thảo luận'],
-						['/research/competitor.md', 'Đối thủ cạnh tranh']
+						['/research/competitor.md', 'Đối thủ cạnh tranh'],
+						['/research/outliers.md', 'Phân tích gian lận']
 					]
 				},
 				{

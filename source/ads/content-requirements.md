@@ -79,7 +79,8 @@ Các nội dung khác có thể thực hiện tương tự quy định về qu�
 Không được quảng cáo TPCN gây hiểu nhầm là thuốc và có tác dụng điều trị bệnh.
 
 ::: tip
-Nên bổ sung từ "hỗ trợ" trước các công dụng của TPCN.
+- Nên bổ sung từ "hỗ trợ" trước các công dụng của TPCN.
+- Chỉ cần để địa chỉ trụ sở công ty, không cần địa chỉ nhà máy (phần này khác với nội dung thuốc.)
 :::
 
 # Prohibited content

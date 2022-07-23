@@ -1,4 +1,27 @@
 # Phân tích kinh doanh
+Để thống nhất trong hoạt động phân tích thì các chỉ số sau đây sử dụng dữ liệu:
+- Doanh thu: sử dụng doanh thu trước thuế (cột Tien2 trên Bravo). Tuy nhiên, loại trừ cho biếu tặng (cột Ma_KM là P84 hoặc P84E). Đối với hàng trả lại, Bravo đã hiển thị số âm nên không xử lý gì thêm (mặc định đã loại trừ hàng trả lại).
+- Số lượng: mặc định là sử dụng số lượng bán (loại trừ số lượng khuyến mãi - cột KHUYEN_MAI = TRUE). Trong trường hợp sử dụng số lượng tổng (bao gồm bán và khuyến mãi) thì nên ghi rõ số lượng tổng.
+- Chi nhánh được xác định bằng cột MA_DVCS, cụ thể:
+	* 1N101: CÔNG TY
+	* 2B101-01: CN HÀ NỘI
+	* 2B101-02: CN HÀ NỘI
+	* 2N101: CN HỒ CHÍ MINH
+	* 2N101-01: CN HỒ CHÍ MINH
+	* 2N101-03: CN HỒ CHÍ MINH
+	* 2N101-04: CN HỒ CHÍ MINH
+	* 2N101-05: CN HỒ CHÍ MINH
+	* 2N201: CN MIỀN ĐÔNG
+	* 2N202: CN VŨNG TÀU
+	* 2N301: CN CẦN THƠ
+	* 2N302: CN TIỀN GIANG
+	* 2T101: CN NHA TRANG
+	* 2T102: CN ĐÀ NẴNG
+	* 2T103: CN NGHỆ AN
+- Phân loại OTC/ ETC căn cứ vào cột loại khách hàng. Tùy nhiên, loại khách hàng có 2 cột trong Bravo gồm LOAI_KH và LOAI_KH_TAN_DUOC. Do đó, tùy thuộc loại báo cáo sản phẩm Đông dược hay Tân dược mà lấy cột tương ứng.
+- Phân loại sỉ/ lẽ dựa vào cột LOAI_KH:
+	* Sỉ gồm: OTC0, OTC1, OTC3, OTC4.
+	* Lẻ gồm: OTC2; OTC7; OTC8; OTC9.
 ## Customer analysis
 ### Mục đích
 Phân tích doanh thu khách hàng được dùng để đánh giá sức mua/tiềm năng của một khách hàng. Sử dụng loại phân tích này để đưa ra các quyết định liên quan đến một khách hàng nào đó.
